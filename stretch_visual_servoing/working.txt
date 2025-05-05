@@ -1,0 +1,50 @@
+
+# ===== Phase 1: Launch ROS Driver, Object Detection, and Control Scripts =====
+echo "Starting Phase 1..."
+
+# Terminal 1: ROS Driver (runs indefinitely)&#8203;:contentReference[oaicite:5]{index=5}
+gnome-terminal --title "ROS Driver" -- bash -c "ros2 launch stretch_core stretch_driver.launch.py mode:=navigation; exec bash -i"
+# Wait 10 seconds to ensure the ROS driver is fully initialized
+sleep 10
+
+# Terminal 2: Object Detection (runs indefinitely)&#8203;:contentReference[oaicite:6]{index=6}
+gnome-terminal --title "Object Detection" -- bash -c "ros2 launch stretch_deep_perception stretch_detect_objects.launch.py; exec bash -i"
+# Wait 10 seconds to allow the object detection node to start up
+sleep 10
+
+# Terminal 3: Control Scripts (runs sequentially; blocks script until done)&#8203;:contentReference[oaicite:7]{index=7}
+gnome-terminal --title "Control Scripts" --wait -- bash -c "python3 /home/team19/team19_codes/custom_home.py; python3 /home/team19/team19_codes/rotate_stretch.py; python3 /home/team19/team19_codes/custom_pickup_location.py"
+# (No 'exec bash' here so the terminal will close when done, allowing --wait to resume)&#8203;:contentReference[oaicite:8]{index=8}
+
+# After Terminal 3 completes, gracefully stop the ROS driver and object detection processes
+# (Use pkill with SIGINT to simulate Ctrl+C and terminate by process name)&#8203;:contentReference[oaicite:9]{index=9}
+pkill -SIGINT -f stretch_driver.launch.py
+pkill -SIGINT -f stretch_detect_objects.launch.py
+
+# ===== Phase 2: Launch D403 Sender, D405 Receiver, and Visual Servoing Scripts =====
+echo "Starting Phase 2..."
+
+# Wait 3 seconds before starting Phase 2
+sleep 3
+
+# Terminal A: D403 Sender (runs indefinitely)
+gnome-terminal --title "D403 Sender" -- bash -c "cd /home/team19/stretch_visual_servoing/ && python3 send_d405_images.py; exec bash -i"
+# Wait 3 seconds to ensure the D403 sender is running
+sleep 5
+
+# Terminal B: D405 Receiver (runs indefinitely)
+gnome-terminal --title "D405 Receiver" -- bash -c "cd stretch_visual_servoing && python3 recv_and_yolo_d405_images.py; exec bash -i"
+# Wait 3 seconds to ensure the D405 receiver is running
+sleep 5
+
+# Terminal C: Servoing (runs sequentially; blocks script until done)&#8203;:contentReference[oaicite:10]{index=10}
+gnome-terminal --title "Servoing" --wait -- bash -c "python3 /home/team19/stretch_visual_servoing/visual_servoing_demo.py -y;"
+# (No 'exec bash' here so the terminal will close when done, allowing --wait to resume)&#8203;:contentReference[oaicite:11]{index=11}
+
+
+# After Terminal C completes, gracefully stop the image sender and receiver processes
+pkill -SIGINT -f send_d403_images.py
+pkill -SIGINT -f recv_and_yolo_d405_images.py
+
+# gnome-terminal --title "Final" -- bash -c "python3 /home/team19/team19_codes/custom_location_after_pickup.py; exec bash -i"
+# Wait 3 seconds to ensure the D405 receiver is running

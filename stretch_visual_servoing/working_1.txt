@@ -1,0 +1,2169 @@
+
+----------- Deprecation Warning -----------
+Your robot params are configured to load DexWrist2 params from Stretch Tool Share
+Support for the DexWrist2 has moved to Stretch Body
+ 1) Open stretch_user_params.yaml and stretch_configuration_params.yaml in
+    the ~/stretch_user/stretch-yyy-xxxx directory.
+ 2) Locate the following text in one of those files and remove it:
+     params: stretch_tool_share.stretch_dex_wrist.params
+     or
+     params:
+      - stretch_tool_share.stretch_dex_wrist.params
+More information can be found at: https://github.com/hello-robot/stretch_body/pull/272
+-------------------------------------------
+
+[INFO] [robot_monitor]: Wrist single tap: 68
+
+Tennis Ball Detection: FAILED
+Left Finger ArUco Marker Detection: FAILED
+Right Finger ArUco Marker Detection: FAILED
+gripper effort = 0.00
+grasping_the_target = False
+behavior = reach
+pre_reach = True
+average frequency over last 1 iterations = 14.80 Hz
+
+Tennis Ball Detection: SUCCEEDED
+Left Finger ArUco Marker Detection: SUCCEEDED
+Right Finger ArUco Marker Detection: SUCCEEDED
+gripper effort = 0.00
+distance_between_fingertips = 15.22 cm
+grasping_the_target = False
+target_error = 35.87 cm
+behavior = reach
+pre_reach = False
+average frequency over last 2 iterations = 21.92 Hz
+
+Tennis Ball Detection: FAILED
+Left Finger ArUco Marker Detection: SUCCEEDED
+Right Finger ArUco Marker Detection: SUCCEEDED
+gripper effort = 0.00
+distance_between_fingertips = 15.22 cm
+grasping_the_target = False
+behavior = reach
+pre_reach = False
+average frequency over last 3 iterations = 9.98 Hz
+
+Tennis Ball Detection: SUCCEEDED
+Left Finger ArUco Marker Detection: SUCCEEDED
+Right Finger ArUco Marker Detection: SUCCEEDED
+gripper effort = 0.00
+distance_between_fingertips = 15.18 cm
+grasping_the_target = False
+target_error = 35.73 cm
+behavior = reach
+pre_reach = False
+average frequency over last 4 iterations = 13.27 Hz
+
+Tennis Ball Detection: SUCCEEDED
+Left Finger ArUco Marker Detection: SUCCEEDED
+Right Finger ArUco Marker Detection: SUCCEEDED
+gripper effort = 0.00
+distance_between_fingertips = 15.10 cm
+grasping_the_target = False
+target_error = 35.92 cm
+behavior = reach
+pre_reach = False
+average frequency over last 5 iterations = 16.47 Hz
+
+Tennis Ball Detection: FAILED
+Left Finger ArUco Marker Detection: SUCCEEDED
+Right Finger ArUco Marker Detection: SUCCEEDED
+gripper effort = 0.00
+distance_between_fingertips = 15.10 cm
+grasping_the_target = False
+behavior = reach
+pre_reach = False
+average frequency over last 6 iterations = 14.81 Hz
+
+Tennis Ball Detection: SUCCEEDED
+Left Finger ArUco Marker Detection: SUCCEEDED
+Right Finger ArUco Marker Detection: SUCCEEDED
+gripper effort = 0.00
+distance_between_fingertips = 15.21 cm
+grasping_the_target = False
+target_error = 36.02 cm
+behavior = reach
+pre_reach = False
+average frequency over last 7 iterations = 17.11 Hz
+
+Tennis Ball Detection: FAILED
+Left Finger ArUco Marker Detection: SUCCEEDED
+Right Finger ArUco Marker Detection: SUCCEEDED
+gripper effort = 0.00
+distance_between_fingertips = 15.21 cm
+grasping_the_target = False
+behavior = reach
+pre_reach = False
+average frequency over last 8 iterations = 15.56 Hz
+
+Tennis Ball Detection: SUCCEEDED
+Left Finger ArUco Marker Detection: SUCCEEDED
+Right Finger ArUco Marker Detection: SUCCEEDED
+gripper effort = 0.00
+distance_between_fingertips = 15.15 cm
+grasping_the_target = False
+target_error = 35.84 cm
+behavior = reach
+pre_reach = False
+average frequency over last 9 iterations = 17.49 Hz
+
+Tennis Ball Detection: FAILED
+Left Finger ArUco Marker Detection: SUCCEEDED
+Right Finger ArUco Marker Detection: SUCCEEDED
+gripper effort = 0.00
+distance_between_fingertips = 15.15 cm
+grasping_the_target = False
+behavior = reach
+pre_reach = False
+average frequency over last 10 iterations = 15.60 Hz
+
+Tennis Ball Detection: SUCCEEDED
+Left Finger ArUco Marker Detection: SUCCEEDED
+Right Finger ArUco Marker Detection: SUCCEEDED
+gripper effort = 0.00
+distance_between_fingertips = 15.04 cm
+grasping_the_target = False
+target_error = 35.73 cm
+behavior = reach
+pre_reach = False
+average frequency over last 10 iterations = 17.42 Hz
+
+Tennis Ball Detection: SUCCEEDED
+Left Finger ArUco Marker Detection: SUCCEEDED
+Right Finger ArUco Marker Detection: SUCCEEDED
+gripper effort = 0.00
+distance_between_fingertips = 15.23 cm
+grasping_the_target = False
+target_error = 35.83 cm
+behavior = reach
+pre_reach = False
+average frequency over last 10 iterations = 16.49 Hz
+
+Tennis Ball Detection: FAILED
+Left Finger ArUco Marker Detection: SUCCEEDED
+Right Finger ArUco Marker Detection: SUCCEEDED
+gripper effort = 0.00
+distance_between_fingertips = 15.23 cm
+grasping_the_target = False
+behavior = reach
+pre_reach = False
+average frequency over last 10 iterations = 21.34 Hz
+
+Tennis Ball Detection: SUCCEEDED
+Left Finger ArUco Marker Detection: SUCCEEDED
+Right Finger ArUco Marker Detection: SUCCEEDED
+gripper effort = 0.00
+distance_between_fingertips = 15.10 cm
+grasping_the_target = False
+target_error = 35.59 cm
+behavior = reach
+pre_reach = False
+average frequency over last 10 iterations = 20.66 Hz
+
+Tennis Ball Detection: FAILED
+Left Finger ArUco Marker Detection: SUCCEEDED
+Right Finger ArUco Marker Detection: SUCCEEDED
+gripper effort = 0.00
+distance_between_fingertips = 15.10 cm
+grasping_the_target = False
+behavior = reach
+pre_reach = False
+average frequency over last 10 iterations = 17.13 Hz
+
+Tennis Ball Detection: SUCCEEDED
+Left Finger ArUco Marker Detection: SUCCEEDED
+Right Finger ArUco Marker Detection: SUCCEEDED
+gripper effort = 0.00
+distance_between_fingertips = 15.26 cm
+grasping_the_target = False
+target_error = 34.64 cm
+behavior = reach
+pre_reach = False
+average frequency over last 10 iterations = 20.23 Hz
+
+Tennis Ball Detection: FAILED
+Left Finger ArUco Marker Detection: SUCCEEDED
+Right Finger ArUco Marker Detection: SUCCEEDED
+gripper effort = 0.00
+distance_between_fingertips = 15.26 cm
+grasping_the_target = False
+behavior = reach
+pre_reach = False
+average frequency over last 10 iterations = 16.75 Hz
+
+Tennis Ball Detection: SUCCEEDED
+Left Finger ArUco Marker Detection: SUCCEEDED
+Right Finger ArUco Marker Detection: SUCCEEDED
+gripper effort = 0.00
+distance_between_fingertips = 15.27 cm
+grasping_the_target = False
+target_error = 33.72 cm
+behavior = reach
+pre_reach = False
+average frequency over last 10 iterations = 20.01 Hz
+
+Tennis Ball Detection: FAILED
+Left Finger ArUco Marker Detection: SUCCEEDED
+Right Finger ArUco Marker Detection: SUCCEEDED
+gripper effort = 0.00
+distance_between_fingertips = 15.27 cm
+grasping_the_target = False
+behavior = reach
+pre_reach = False
+average frequency over last 10 iterations = 16.83 Hz
+
+Tennis Ball Detection: SUCCEEDED
+Left Finger ArUco Marker Detection: SUCCEEDED
+Right Finger ArUco Marker Detection: SUCCEEDED
+gripper effort = 0.00
+distance_between_fingertips = 15.19 cm
+grasping_the_target = False
+target_error = 32.27 cm
+behavior = reach
+pre_reach = False
+average frequency over last 10 iterations = 20.23 Hz
+
+Tennis Ball Detection: FAILED
+Left Finger ArUco Marker Detection: SUCCEEDED
+Right Finger ArUco Marker Detection: SUCCEEDED
+gripper effort = 0.00
+distance_between_fingertips = 15.19 cm
+grasping_the_target = False
+behavior = reach
+pre_reach = False
+average frequency over last 10 iterations = 17.27 Hz
+
+Tennis Ball Detection: SUCCEEDED
+Left Finger ArUco Marker Detection: SUCCEEDED
+Right Finger ArUco Marker Detection: SUCCEEDED
+gripper effort = 0.00
+distance_between_fingertips = 15.22 cm
+grasping_the_target = False
+target_error = 30.87 cm
+behavior = reach
+pre_reach = False
+average frequency over last 10 iterations = 18.35 Hz
+
+Tennis Ball Detection: FAILED
+Left Finger ArUco Marker Detection: SUCCEEDED
+Right Finger ArUco Marker Detection: SUCCEEDED
+gripper effort = 0.00
+distance_between_fingertips = 15.22 cm
+grasping_the_target = False
+behavior = reach
+pre_reach = False
+average frequency over last 10 iterations = 18.04 Hz
+
+Tennis Ball Detection: SUCCEEDED
+Left Finger ArUco Marker Detection: SUCCEEDED
+Right Finger ArUco Marker Detection: SUCCEEDED
+gripper effort = 0.00
+distance_between_fingertips = 15.18 cm
+grasping_the_target = False
+target_error = 28.57 cm
+behavior = reach
+pre_reach = False
+average frequency over last 10 iterations = 17.93 Hz
+
+Tennis Ball Detection: FAILED
+Left Finger ArUco Marker Detection: SUCCEEDED
+Right Finger ArUco Marker Detection: SUCCEEDED
+gripper effort = 0.00
+distance_between_fingertips = 15.18 cm
+grasping_the_target = False
+behavior = reach
+pre_reach = False
+average frequency over last 10 iterations = 17.85 Hz
+
+Tennis Ball Detection: SUCCEEDED
+Left Finger ArUco Marker Detection: SUCCEEDED
+Right Finger ArUco Marker Detection: SUCCEEDED
+gripper effort = 0.00
+distance_between_fingertips = 15.14 cm
+grasping_the_target = False
+target_error = 27.55 cm
+behavior = reach
+pre_reach = False
+average frequency over last 10 iterations = 18.23 Hz
+
+Tennis Ball Detection: FAILED
+Left Finger ArUco Marker Detection: SUCCEEDED
+Right Finger ArUco Marker Detection: SUCCEEDED
+gripper effort = 0.00
+distance_between_fingertips = 15.14 cm
+grasping_the_target = False
+behavior = reach
+pre_reach = False
+average frequency over last 10 iterations = 17.70 Hz
+
+Tennis Ball Detection: SUCCEEDED
+Left Finger ArUco Marker Detection: SUCCEEDED
+Right Finger ArUco Marker Detection: SUCCEEDED
+gripper effort = 0.00
+distance_between_fingertips = 15.15 cm
+grasping_the_target = False
+target_error = 25.47 cm
+behavior = reach
+pre_reach = False
+average frequency over last 10 iterations = 17.90 Hz
+
+Tennis Ball Detection: FAILED
+Left Finger ArUco Marker Detection: SUCCEEDED
+Right Finger ArUco Marker Detection: SUCCEEDED
+gripper effort = 0.00
+distance_between_fingertips = 15.15 cm
+grasping_the_target = False
+behavior = reach
+pre_reach = False
+average frequency over last 10 iterations = 17.03 Hz
+
+Tennis Ball Detection: SUCCEEDED
+Left Finger ArUco Marker Detection: SUCCEEDED
+Right Finger ArUco Marker Detection: SUCCEEDED
+gripper effort = 0.00
+distance_between_fingertips = 15.18 cm
+grasping_the_target = False
+target_error = 24.26 cm
+behavior = reach
+pre_reach = False
+average frequency over last 10 iterations = 17.81 Hz
+
+Tennis Ball Detection: SUCCEEDED
+Left Finger ArUco Marker Detection: SUCCEEDED
+Right Finger ArUco Marker Detection: SUCCEEDED
+gripper effort = 0.00
+distance_between_fingertips = 15.07 cm
+grasping_the_target = False
+target_error = 21.39 cm
+behavior = reach
+pre_reach = False
+average frequency over last 10 iterations = 17.38 Hz
+
+Tennis Ball Detection: SUCCEEDED
+Left Finger ArUco Marker Detection: SUCCEEDED
+Right Finger ArUco Marker Detection: SUCCEEDED
+gripper effort = 0.00
+distance_between_fingertips = 15.30 cm
+grasping_the_target = False
+target_error = 18.77 cm
+behavior = reach
+pre_reach = False
+average frequency over last 10 iterations = 14.94 Hz
+
+Tennis Ball Detection: SUCCEEDED
+Left Finger ArUco Marker Detection: SUCCEEDED
+Right Finger ArUco Marker Detection: SUCCEEDED
+gripper effort = 0.00
+distance_between_fingertips = 15.19 cm
+grasping_the_target = False
+target_error = 17.63 cm
+behavior = reach
+pre_reach = False
+average frequency over last 10 iterations = 14.13 Hz
+
+Tennis Ball Detection: SUCCEEDED
+Left Finger ArUco Marker Detection: SUCCEEDED
+Right Finger ArUco Marker Detection: SUCCEEDED
+gripper effort = 0.00
+distance_between_fingertips = 15.24 cm
+grasping_the_target = False
+target_error = 16.00 cm
+behavior = reach
+pre_reach = False
+average frequency over last 10 iterations = 13.83 Hz
+
+Tennis Ball Detection: SUCCEEDED
+Left Finger ArUco Marker Detection: SUCCEEDED
+Right Finger ArUco Marker Detection: SUCCEEDED
+gripper effort = 0.00
+distance_between_fingertips = 15.11 cm
+grasping_the_target = False
+target_error = 14.86 cm
+behavior = reach
+pre_reach = False
+average frequency over last 10 iterations = 14.12 Hz
+
+Tennis Ball Detection: SUCCEEDED
+Left Finger ArUco Marker Detection: SUCCEEDED
+Right Finger ArUco Marker Detection: SUCCEEDED
+gripper effort = 0.00
+distance_between_fingertips = 15.18 cm
+grasping_the_target = False
+target_error = 14.08 cm
+behavior = reach
+pre_reach = False
+average frequency over last 10 iterations = 12.46 Hz
+
+Tennis Ball Detection: SUCCEEDED
+Left Finger ArUco Marker Detection: SUCCEEDED
+Right Finger ArUco Marker Detection: SUCCEEDED
+gripper effort = 0.00
+distance_between_fingertips = 15.04 cm
+grasping_the_target = False
+target_error = 12.28 cm
+behavior = reach
+pre_reach = False
+average frequency over last 10 iterations = 12.64 Hz
+
+Tennis Ball Detection: SUCCEEDED
+Left Finger ArUco Marker Detection: SUCCEEDED
+Right Finger ArUco Marker Detection: SUCCEEDED
+gripper effort = 0.00
+distance_between_fingertips = 15.21 cm
+grasping_the_target = False
+target_error = 11.36 cm
+behavior = reach
+pre_reach = False
+average frequency over last 10 iterations = 11.74 Hz
+
+Tennis Ball Detection: SUCCEEDED
+Left Finger ArUco Marker Detection: SUCCEEDED
+Right Finger ArUco Marker Detection: SUCCEEDED
+gripper effort = 0.00
+distance_between_fingertips = 15.31 cm
+grasping_the_target = False
+target_error = 10.75 cm
+behavior = reach
+pre_reach = False
+average frequency over last 10 iterations = 12.31 Hz
+
+Tennis Ball Detection: SUCCEEDED
+Left Finger ArUco Marker Detection: SUCCEEDED
+Right Finger ArUco Marker Detection: SUCCEEDED
+gripper effort = 0.00
+distance_between_fingertips = 15.19 cm
+grasping_the_target = False
+target_error = 9.19 cm
+behavior = reach
+pre_reach = False
+average frequency over last 10 iterations = 11.19 Hz
+
+Tennis Ball Detection: FAILED
+Left Finger ArUco Marker Detection: SUCCEEDED
+Right Finger ArUco Marker Detection: SUCCEEDED
+gripper effort = 0.00
+distance_between_fingertips = 15.19 cm
+grasping_the_target = False
+behavior = reach
+pre_reach = False
+average frequency over last 10 iterations = 11.04 Hz
+
+Tennis Ball Detection: SUCCEEDED
+Left Finger ArUco Marker Detection: SUCCEEDED
+Right Finger ArUco Marker Detection: SUCCEEDED
+gripper effort = 0.00
+distance_between_fingertips = 15.14 cm
+grasping_the_target = False
+target_error = 8.98 cm
+behavior = reach
+pre_reach = False
+average frequency over last 10 iterations = 12.66 Hz
+
+Tennis Ball Detection: SUCCEEDED
+Left Finger ArUco Marker Detection: SUCCEEDED
+Right Finger ArUco Marker Detection: SUCCEEDED
+gripper effort = 0.00
+distance_between_fingertips = 15.15 cm
+grasping_the_target = False
+target_error = 8.74 cm
+behavior = reach
+pre_reach = False
+average frequency over last 10 iterations = 12.96 Hz
+
+Tennis Ball Detection: SUCCEEDED
+Left Finger ArUco Marker Detection: SUCCEEDED
+Right Finger ArUco Marker Detection: SUCCEEDED
+gripper effort = 0.00
+distance_between_fingertips = 15.08 cm
+grasping_the_target = False
+target_error = 8.46 cm
+behavior = reach
+pre_reach = False
+average frequency over last 10 iterations = 12.48 Hz
+
+Tennis Ball Detection: FAILED
+Left Finger ArUco Marker Detection: SUCCEEDED
+Right Finger ArUco Marker Detection: SUCCEEDED
+gripper effort = 0.00
+distance_between_fingertips = 15.08 cm
+grasping_the_target = False
+behavior = reach
+pre_reach = False
+average frequency over last 10 iterations = 12.60 Hz
+
+Tennis Ball Detection: SUCCEEDED
+Left Finger ArUco Marker Detection: SUCCEEDED
+Right Finger ArUco Marker Detection: SUCCEEDED
+gripper effort = 0.00
+distance_between_fingertips = 15.08 cm
+grasping_the_target = False
+target_error = 8.16 cm
+behavior = reach
+pre_reach = False
+average frequency over last 10 iterations = 14.19 Hz
+
+Tennis Ball Detection: FAILED
+Left Finger ArUco Marker Detection: SUCCEEDED
+Right Finger ArUco Marker Detection: SUCCEEDED
+gripper effort = 0.00
+distance_between_fingertips = 15.08 cm
+grasping_the_target = False
+behavior = reach
+pre_reach = False
+average frequency over last 10 iterations = 14.87 Hz
+
+Tennis Ball Detection: SUCCEEDED
+Left Finger ArUco Marker Detection: SUCCEEDED
+Right Finger ArUco Marker Detection: SUCCEEDED
+gripper effort = 0.00
+distance_between_fingertips = 15.20 cm
+grasping_the_target = False
+target_error = 8.04 cm
+behavior = reach
+pre_reach = False
+average frequency over last 10 iterations = 16.06 Hz
+
+Tennis Ball Detection: FAILED
+Left Finger ArUco Marker Detection: SUCCEEDED
+Right Finger ArUco Marker Detection: SUCCEEDED
+gripper effort = 0.00
+distance_between_fingertips = 15.20 cm
+grasping_the_target = False
+behavior = reach
+pre_reach = False
+average frequency over last 10 iterations = 16.22 Hz
+
+Tennis Ball Detection: SUCCEEDED
+Left Finger ArUco Marker Detection: SUCCEEDED
+Right Finger ArUco Marker Detection: SUCCEEDED
+gripper effort = 0.00
+distance_between_fingertips = 15.33 cm
+grasping_the_target = False
+target_error = 7.43 cm
+behavior = reach
+pre_reach = False
+average frequency over last 10 iterations = 17.79 Hz
+
+Tennis Ball Detection: FAILED
+Left Finger ArUco Marker Detection: SUCCEEDED
+Right Finger ArUco Marker Detection: SUCCEEDED
+gripper effort = 0.00
+distance_between_fingertips = 15.33 cm
+grasping_the_target = False
+behavior = reach
+pre_reach = False
+average frequency over last 10 iterations = 18.72 Hz
+
+Tennis Ball Detection: SUCCEEDED
+Left Finger ArUco Marker Detection: SUCCEEDED
+Right Finger ArUco Marker Detection: SUCCEEDED
+gripper effort = 0.00
+distance_between_fingertips = 15.18 cm
+grasping_the_target = False
+target_error = 6.67 cm
+behavior = reach
+pre_reach = False
+average frequency over last 10 iterations = 18.07 Hz
+
+Tennis Ball Detection: FAILED
+Left Finger ArUco Marker Detection: SUCCEEDED
+Right Finger ArUco Marker Detection: SUCCEEDED
+gripper effort = 0.00
+distance_between_fingertips = 15.18 cm
+grasping_the_target = False
+behavior = reach
+pre_reach = False
+average frequency over last 10 iterations = 18.84 Hz
+
+Tennis Ball Detection: SUCCEEDED
+Left Finger ArUco Marker Detection: SUCCEEDED
+Right Finger ArUco Marker Detection: SUCCEEDED
+gripper effort = 0.00
+distance_between_fingertips = 15.06 cm
+grasping_the_target = False
+target_error = 5.66 cm
+behavior = reach
+pre_reach = False
+average frequency over last 10 iterations = 20.93 Hz
+
+Tennis Ball Detection: FAILED
+Left Finger ArUco Marker Detection: SUCCEEDED
+Right Finger ArUco Marker Detection: SUCCEEDED
+gripper effort = 0.00
+distance_between_fingertips = 15.06 cm
+grasping_the_target = False
+behavior = reach
+pre_reach = False
+average frequency over last 10 iterations = 20.28 Hz
+
+Tennis Ball Detection: SUCCEEDED
+Left Finger ArUco Marker Detection: SUCCEEDED
+Right Finger ArUco Marker Detection: SUCCEEDED
+gripper effort = 0.00
+distance_between_fingertips = 15.35 cm
+grasping_the_target = False
+target_error = 5.22 cm
+behavior = reach
+pre_reach = False
+average frequency over last 10 iterations = 20.40 Hz
+
+Tennis Ball Detection: FAILED
+Left Finger ArUco Marker Detection: SUCCEEDED
+Right Finger ArUco Marker Detection: SUCCEEDED
+gripper effort = 0.00
+distance_between_fingertips = 15.35 cm
+grasping_the_target = False
+behavior = reach
+pre_reach = False
+average frequency over last 10 iterations = 19.30 Hz
+
+Tennis Ball Detection: SUCCEEDED
+Left Finger ArUco Marker Detection: SUCCEEDED
+Right Finger ArUco Marker Detection: SUCCEEDED
+gripper effort = 0.00
+distance_between_fingertips = 15.14 cm
+grasping_the_target = False
+target_error = 4.14 cm
+behavior = reach
+pre_reach = False
+average frequency over last 10 iterations = 19.70 Hz
+
+Tennis Ball Detection: FAILED
+Left Finger ArUco Marker Detection: SUCCEEDED
+Right Finger ArUco Marker Detection: SUCCEEDED
+gripper effort = 0.00
+distance_between_fingertips = 15.14 cm
+grasping_the_target = False
+behavior = reach
+pre_reach = False
+average frequency over last 10 iterations = 18.92 Hz
+
+Tennis Ball Detection: SUCCEEDED
+Left Finger ArUco Marker Detection: SUCCEEDED
+Right Finger ArUco Marker Detection: SUCCEEDED
+gripper effort = 0.00
+distance_between_fingertips = 15.12 cm
+grasping_the_target = False
+target_error = 3.34 cm
+behavior = reach
+pre_reach = False
+average frequency over last 10 iterations = 19.99 Hz
+
+Tennis Ball Detection: FAILED
+Left Finger ArUco Marker Detection: SUCCEEDED
+Right Finger ArUco Marker Detection: SUCCEEDED
+gripper effort = 0.00
+distance_between_fingertips = 15.12 cm
+grasping_the_target = False
+behavior = reach
+pre_reach = False
+average frequency over last 10 iterations = 19.11 Hz
+
+Tennis Ball Detection: SUCCEEDED
+Left Finger ArUco Marker Detection: SUCCEEDED
+Right Finger ArUco Marker Detection: SUCCEEDED
+gripper effort = 0.00
+distance_between_fingertips = 15.15 cm
+grasping_the_target = False
+target_error = 2.87 cm
+behavior = reach
+pre_reach = False
+average frequency over last 10 iterations = 19.83 Hz
+
+Tennis Ball Detection: SUCCEEDED
+Left Finger ArUco Marker Detection: SUCCEEDED
+Right Finger ArUco Marker Detection: SUCCEEDED
+gripper effort = 0.00
+distance_between_fingertips = 15.09 cm
+grasping_the_target = False
+target_error = 2.85 cm
+behavior = reach
+pre_reach = False
+average frequency over last 10 iterations = 19.15 Hz
+
+Tennis Ball Detection: SUCCEEDED
+Left Finger ArUco Marker Detection: SUCCEEDED
+Right Finger ArUco Marker Detection: SUCCEEDED
+gripper effort = 0.00
+distance_between_fingertips = 15.10 cm
+grasping_the_target = False
+target_error = 2.67 cm
+behavior = reach
+pre_reach = False
+average frequency over last 10 iterations = 16.08 Hz
+
+Tennis Ball Detection: SUCCEEDED
+Left Finger ArUco Marker Detection: SUCCEEDED
+Right Finger ArUco Marker Detection: SUCCEEDED
+gripper effort = 0.00
+distance_between_fingertips = 15.17 cm
+grasping_the_target = False
+target_error = 2.60 cm
+behavior = reach
+pre_reach = False
+average frequency over last 10 iterations = 17.40 Hz
+
+Tennis Ball Detection: SUCCEEDED
+Left Finger ArUco Marker Detection: SUCCEEDED
+Right Finger ArUco Marker Detection: SUCCEEDED
+gripper effort = 0.00
+distance_between_fingertips = 12.18 cm
+grasping_the_target = False
+target_error = 3.67 cm
+behavior = reach
+pre_reach = False
+average frequency over last 10 iterations = 15.18 Hz
+
+Tennis Ball Detection: SUCCEEDED
+Left Finger ArUco Marker Detection: SUCCEEDED
+Right Finger ArUco Marker Detection: SUCCEEDED
+gripper effort = 0.00
+distance_between_fingertips = 15.29 cm
+grasping_the_target = False
+target_error = 2.49 cm
+behavior = reach
+pre_reach = False
+average frequency over last 10 iterations = 15.63 Hz
+
+Tennis Ball Detection: SUCCEEDED
+Left Finger ArUco Marker Detection: SUCCEEDED
+Right Finger ArUco Marker Detection: SUCCEEDED
+gripper effort = 0.00
+distance_between_fingertips = 15.22 cm
+grasping_the_target = False
+target_error = 2.21 cm
+behavior = reach
+pre_reach = False
+average frequency over last 10 iterations = 13.38 Hz
+
+Tennis Ball Detection: SUCCEEDED
+Left Finger ArUco Marker Detection: SUCCEEDED
+Right Finger ArUco Marker Detection: SUCCEEDED
+gripper effort = 0.00
+distance_between_fingertips = 15.09 cm
+grasping_the_target = False
+target_error = 1.97 cm
+behavior = reach
+pre_reach = False
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+average frequency over last 10 iterations = 13.31 Hz
+
+Tennis Ball Detection: SUCCEEDED
+Left Finger ArUco Marker Detection: SUCCEEDED
+Right Finger ArUco Marker Detection: SUCCEEDED
+gripper effort = -0.68
+distance_between_fingertips = 15.12 cm
+grasping_the_target = False
+target_error = 1.31 cm
+behavior = reach
+pre_reach = False
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+average frequency over last 10 iterations = 12.47 Hz
+
+Tennis Ball Detection: SUCCEEDED
+Left Finger ArUco Marker Detection: SUCCEEDED
+Right Finger ArUco Marker Detection: SUCCEEDED
+gripper effort = -0.68
+distance_between_fingertips = 15.35 cm
+grasping_the_target = False
+target_error = 1.28 cm
+behavior = reach
+pre_reach = False
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+average frequency over last 10 iterations = 12.58 Hz
+
+Tennis Ball Detection: SUCCEEDED
+Left Finger ArUco Marker Detection: SUCCEEDED
+Right Finger ArUco Marker Detection: SUCCEEDED
+gripper effort = -13.57
+distance_between_fingertips = 15.23 cm
+grasping_the_target = False
+target_error = 0.98 cm
+behavior = reach
+pre_reach = False
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+average frequency over last 10 iterations = 11.26 Hz
+
+Tennis Ball Detection: SUCCEEDED
+Left Finger ArUco Marker Detection: SUCCEEDED
+Right Finger ArUco Marker Detection: SUCCEEDED
+gripper effort = -13.57
+distance_between_fingertips = 15.18 cm
+grasping_the_target = False
+target_error = 0.88 cm
+behavior = reach
+pre_reach = False
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+average frequency over last 10 iterations = 11.21 Hz
+
+Tennis Ball Detection: SUCCEEDED
+Left Finger ArUco Marker Detection: SUCCEEDED
+Right Finger ArUco Marker Detection: SUCCEEDED
+gripper effort = -9.96
+distance_between_fingertips = 15.02 cm
+grasping_the_target = False
+target_error = 0.92 cm
+behavior = reach
+pre_reach = False
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+average frequency over last 10 iterations = 11.22 Hz
+
+Tennis Ball Detection: SUCCEEDED
+Left Finger ArUco Marker Detection: SUCCEEDED
+Right Finger ArUco Marker Detection: SUCCEEDED
+gripper effort = -9.96
+distance_between_fingertips = 14.56 cm
+grasping_the_target = False
+target_error = 0.94 cm
+behavior = reach
+pre_reach = False
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+average frequency over last 10 iterations = 10.49 Hz
+
+Tennis Ball Detection: SUCCEEDED
+Left Finger ArUco Marker Detection: SUCCEEDED
+Right Finger ArUco Marker Detection: SUCCEEDED
+gripper effort = -9.96
+distance_between_fingertips = 14.37 cm
+grasping_the_target = False
+target_error = 0.94 cm
+behavior = reach
+pre_reach = False
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+average frequency over last 10 iterations = 10.82 Hz
+
+Tennis Ball Detection: SUCCEEDED
+Left Finger ArUco Marker Detection: SUCCEEDED
+Right Finger ArUco Marker Detection: SUCCEEDED
+gripper effort = -7.52
+distance_between_fingertips = 13.88 cm
+grasping_the_target = False
+target_error = 0.81 cm
+behavior = reach
+pre_reach = False
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+average frequency over last 10 iterations = 10.84 Hz
+
+Tennis Ball Detection: FAILED
+Left Finger ArUco Marker Detection: SUCCEEDED
+Right Finger ArUco Marker Detection: SUCCEEDED
+gripper effort = -7.52
+distance_between_fingertips = 13.88 cm
+grasping_the_target = False
+behavior = reach
+pre_reach = False
+average frequency over last 10 iterations = 11.12 Hz
+
+Tennis Ball Detection: SUCCEEDED
+Left Finger ArUco Marker Detection: SUCCEEDED
+Right Finger ArUco Marker Detection: SUCCEEDED
+gripper effort = -7.52
+distance_between_fingertips = 11.02 cm
+grasping_the_target = False
+target_error = 1.81 cm
+behavior = reach
+pre_reach = False
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+average frequency over last 10 iterations = 12.35 Hz
+
+Tennis Ball Detection: SUCCEEDED
+Left Finger ArUco Marker Detection: SUCCEEDED
+Right Finger ArUco Marker Detection: SUCCEEDED
+gripper effort = -8.01
+distance_between_fingertips = 12.91 cm
+grasping_the_target = False
+target_error = 0.80 cm
+behavior = reach
+pre_reach = False
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+average frequency over last 10 iterations = 11.82 Hz
+
+Tennis Ball Detection: SUCCEEDED
+Left Finger ArUco Marker Detection: SUCCEEDED
+Right Finger ArUco Marker Detection: SUCCEEDED
+gripper effort = -8.01
+distance_between_fingertips = 12.24 cm
+grasping_the_target = False
+target_error = 0.61 cm
+behavior = reach
+pre_reach = False
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+average frequency over last 10 iterations = 11.85 Hz
+
+Tennis Ball Detection: SUCCEEDED
+Left Finger ArUco Marker Detection: SUCCEEDED
+Right Finger ArUco Marker Detection: SUCCEEDED
+gripper effort = -11.52
+distance_between_fingertips = 11.86 cm
+grasping_the_target = False
+target_error = 0.60 cm
+behavior = reach
+pre_reach = False
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+average frequency over last 10 iterations = 11.62 Hz
+
+Tennis Ball Detection: SUCCEEDED
+Left Finger ArUco Marker Detection: SUCCEEDED
+Right Finger ArUco Marker Detection: SUCCEEDED
+gripper effort = -11.52
+distance_between_fingertips = 11.66 cm
+grasping_the_target = False
+target_error = 0.56 cm
+behavior = reach
+pre_reach = False
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+average frequency over last 10 iterations = 12.23 Hz
+
+Tennis Ball Detection: FAILED
+Left Finger ArUco Marker Detection: SUCCEEDED
+Right Finger ArUco Marker Detection: SUCCEEDED
+gripper effort = -8.01
+distance_between_fingertips = 11.66 cm
+grasping_the_target = False
+behavior = reach
+pre_reach = False
+average frequency over last 10 iterations = 12.80 Hz
+
+Tennis Ball Detection: SUCCEEDED
+Left Finger ArUco Marker Detection: SUCCEEDED
+Right Finger ArUco Marker Detection: SUCCEEDED
+gripper effort = -8.01
+distance_between_fingertips = 10.81 cm
+grasping_the_target = False
+target_error = 0.26 cm
+behavior = reach
+pre_reach = False
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+average frequency over last 10 iterations = 14.59 Hz
+
+Tennis Ball Detection: FAILED
+Left Finger ArUco Marker Detection: SUCCEEDED
+Right Finger ArUco Marker Detection: SUCCEEDED
+gripper effort = -8.01
+distance_between_fingertips = 10.81 cm
+grasping_the_target = False
+behavior = reach
+pre_reach = False
+average frequency over last 10 iterations = 14.33 Hz
+
+Tennis Ball Detection: SUCCEEDED
+Left Finger ArUco Marker Detection: SUCCEEDED
+Right Finger ArUco Marker Detection: SUCCEEDED
+gripper effort = -8.01
+distance_between_fingertips = 10.49 cm
+grasping_the_target = False
+target_error = 0.25 cm
+behavior = reach
+pre_reach = False
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+average frequency over last 10 iterations = 15.55 Hz
+
+Tennis Ball Detection: FAILED
+Left Finger ArUco Marker Detection: SUCCEEDED
+Right Finger ArUco Marker Detection: SUCCEEDED
+gripper effort = -8.01
+distance_between_fingertips = 10.49 cm
+grasping_the_target = False
+behavior = reach
+pre_reach = False
+average frequency over last 10 iterations = 15.97 Hz
+
+Tennis Ball Detection: SUCCEEDED
+Left Finger ArUco Marker Detection: SUCCEEDED
+Right Finger ArUco Marker Detection: SUCCEEDED
+gripper effort = -8.59
+distance_between_fingertips = 9.57 cm
+grasping_the_target = False
+target_error = 0.12 cm
+behavior = reach
+pre_reach = False
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+average frequency over last 10 iterations = 15.55 Hz
+
+Tennis Ball Detection: FAILED
+Left Finger ArUco Marker Detection: SUCCEEDED
+Right Finger ArUco Marker Detection: SUCCEEDED
+gripper effort = -8.59
+distance_between_fingertips = 9.57 cm
+grasping_the_target = False
+behavior = reach
+pre_reach = False
+average frequency over last 10 iterations = 15.95 Hz
+
+Tennis Ball Detection: SUCCEEDED
+Left Finger ArUco Marker Detection: SUCCEEDED
+Right Finger ArUco Marker Detection: SUCCEEDED
+gripper effort = -8.59
+distance_between_fingertips = 9.05 cm
+grasping_the_target = False
+target_error = 0.11 cm
+behavior = reach
+pre_reach = False
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+average frequency over last 10 iterations = 17.84 Hz
+
+Tennis Ball Detection: FAILED
+Left Finger ArUco Marker Detection: SUCCEEDED
+Right Finger ArUco Marker Detection: SUCCEEDED
+gripper effort = -8.59
+distance_between_fingertips = 9.05 cm
+grasping_the_target = False
+behavior = reach
+pre_reach = False
+average frequency over last 10 iterations = 19.03 Hz
+
+Tennis Ball Detection: SUCCEEDED
+Left Finger ArUco Marker Detection: SUCCEEDED
+Right Finger ArUco Marker Detection: SUCCEEDED
+gripper effort = -12.99
+distance_between_fingertips = 8.52 cm
+grasping_the_target = False
+target_error = 0.16 cm
+behavior = reach
+pre_reach = False
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+average frequency over last 10 iterations = 20.51 Hz
+
+Tennis Ball Detection: FAILED
+Left Finger ArUco Marker Detection: SUCCEEDED
+Right Finger ArUco Marker Detection: SUCCEEDED
+gripper effort = -12.99
+distance_between_fingertips = 8.52 cm
+grasping_the_target = False
+behavior = reach
+pre_reach = False
+average frequency over last 10 iterations = 20.11 Hz
+
+Tennis Ball Detection: SUCCEEDED
+Left Finger ArUco Marker Detection: SUCCEEDED
+Right Finger ArUco Marker Detection: SUCCEEDED
+gripper effort = -12.99
+distance_between_fingertips = 7.52 cm
+grasping_the_target = False
+target_error = 0.29 cm
+behavior = reach
+pre_reach = False
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+average frequency over last 10 iterations = 20.21 Hz
+
+Tennis Ball Detection: FAILED
+Left Finger ArUco Marker Detection: SUCCEEDED
+Right Finger ArUco Marker Detection: SUCCEEDED
+gripper effort = -12.99
+distance_between_fingertips = 7.52 cm
+grasping_the_target = False
+behavior = reach
+pre_reach = False
+average frequency over last 10 iterations = 19.44 Hz
+
+Tennis Ball Detection: SUCCEEDED
+Left Finger ArUco Marker Detection: SUCCEEDED
+Right Finger ArUco Marker Detection: SUCCEEDED
+gripper effort = -12.99
+distance_between_fingertips = 7.25 cm
+grasping_the_target = False
+target_error = 0.32 cm
+behavior = reach
+pre_reach = False
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+average frequency over last 10 iterations = 20.45 Hz
+
+Tennis Ball Detection: FAILED
+Left Finger ArUco Marker Detection: SUCCEEDED
+Right Finger ArUco Marker Detection: SUCCEEDED
+gripper effort = -24.02
+distance_between_fingertips = 7.25 cm
+grasping_the_target = False
+behavior = reach
+pre_reach = False
+average frequency over last 10 iterations = 19.35 Hz
+
+Tennis Ball Detection: SUCCEEDED
+Left Finger ArUco Marker Detection: SUCCEEDED
+Right Finger ArUco Marker Detection: SUCCEEDED
+gripper effort = -24.02
+distance_between_fingertips = 6.51 cm
+grasping_the_target = False
+target_error = 0.29 cm
+behavior = reach
+pre_reach = False
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+I GOT THE BALL!!!
+average frequency over last 10 iterations = 19.80 Hz
+
+Tennis Ball Detection: SUCCEEDED
+Left Finger ArUco Marker Detection: SUCCEEDED
+Right Finger ArUco Marker Detection: SUCCEEDED
+gripper effort = -31.35
+distance_between_fingertips = 6.12 cm
+grasping_the_target = True
+target_error = 0.28 cm
+behavior = retract
+pre_reach = False
+average frequency over last 10 iterations = 18.62 Hz
+
+Tennis Ball Detection: SUCCEEDED
+Left Finger ArUco Marker Detection: SUCCEEDED
+Right Finger ArUco Marker Detection: SUCCEEDED
+gripper effort = -31.35
+distance_between_fingertips = 5.72 cm
+grasping_the_target = True
+target_error = 0.47 cm
+behavior = retract
+pre_reach = False
+average frequency over last 10 iterations = 17.50 Hz
+
+Tennis Ball Detection: FAILED
+Left Finger ArUco Marker Detection: SUCCEEDED
+Right Finger ArUco Marker Detection: SUCCEEDED
+gripper effort = -31.35
+distance_between_fingertips = 5.72 cm
+grasping_the_target = True
+behavior = retract
+pre_reach = False
+average frequency over last 10 iterations = 17.34 Hz
+
+Tennis Ball Detection: SUCCEEDED
+Left Finger ArUco Marker Detection: SUCCEEDED
+Right Finger ArUco Marker Detection: SUCCEEDED
+gripper effort = -31.35
+distance_between_fingertips = 5.77 cm
+grasping_the_target = True
+target_error = 0.52 cm
+behavior = retract
+pre_reach = False
+average frequency over last 10 iterations = 17.41 Hz
+
+Tennis Ball Detection: FAILED
+Left Finger ArUco Marker Detection: SUCCEEDED
+Right Finger ArUco Marker Detection: SUCCEEDED
+gripper effort = -36.72
+distance_between_fingertips = 5.77 cm
+grasping_the_target = True
+behavior = retract
+pre_reach = False
+average frequency over last 10 iterations = 17.44 Hz
+
+Tennis Ball Detection: SUCCEEDED
+Left Finger ArUco Marker Detection: SUCCEEDED
+Right Finger ArUco Marker Detection: SUCCEEDED
+gripper effort = -36.72
+distance_between_fingertips = 5.63 cm
+grasping_the_target = True
+target_error = 0.41 cm
+behavior = retract
+pre_reach = False
+average frequency over last 10 iterations = 17.85 Hz
+
+Tennis Ball Detection: FAILED
+Left Finger ArUco Marker Detection: SUCCEEDED
+Right Finger ArUco Marker Detection: SUCCEEDED
+gripper effort = -36.72
+distance_between_fingertips = 5.63 cm
+grasping_the_target = True
+behavior = retract
+pre_reach = False
+average frequency over last 10 iterations = 17.99 Hz
+
+Tennis Ball Detection: SUCCEEDED
+Left Finger ArUco Marker Detection: SUCCEEDED
+Right Finger ArUco Marker Detection: SUCCEEDED
+gripper effort = -36.72
+distance_between_fingertips = 5.60 cm
+grasping_the_target = True
+target_error = 0.45 cm
+behavior = retract
+pre_reach = False
+average frequency over last 10 iterations = 18.09 Hz
+
+Tennis Ball Detection: SUCCEEDED
+Left Finger ArUco Marker Detection: SUCCEEDED
+Right Finger ArUco Marker Detection: SUCCEEDED
+gripper effort = -40.14
+distance_between_fingertips = 5.67 cm
+grasping_the_target = True
+target_error = 0.40 cm
+behavior = retract
+pre_reach = False
+average frequency over last 10 iterations = 18.46 Hz
+
+Tennis Ball Detection: SUCCEEDED
+Left Finger ArUco Marker Detection: SUCCEEDED
+Right Finger ArUco Marker Detection: SUCCEEDED
+gripper effort = -40.14
+distance_between_fingertips = 5.53 cm
+grasping_the_target = True
+target_error = 0.46 cm
+behavior = retract
+pre_reach = False
+average frequency over last 10 iterations = 16.47 Hz
+
+Tennis Ball Detection: SUCCEEDED
+Left Finger ArUco Marker Detection: SUCCEEDED
+Right Finger ArUco Marker Detection: SUCCEEDED
+gripper effort = -36.04
+distance_between_fingertips = 5.57 cm
+grasping_the_target = True
+target_error = 0.46 cm
+behavior = retract
+pre_reach = False
+average frequency over last 10 iterations = 17.03 Hz
+
+Tennis Ball Detection: SUCCEEDED
+Left Finger ArUco Marker Detection: SUCCEEDED
+Right Finger ArUco Marker Detection: SUCCEEDED
+gripper effort = -36.04
+distance_between_fingertips = 5.54 cm
+grasping_the_target = True
+target_error = 0.45 cm
+behavior = retract
+pre_reach = False
+average frequency over last 10 iterations = 16.46 Hz
+
+Tennis Ball Detection: SUCCEEDED
+Left Finger ArUco Marker Detection: SUCCEEDED
+Right Finger ArUco Marker Detection: SUCCEEDED
+gripper effort = -36.04
+distance_between_fingertips = 5.55 cm
+grasping_the_target = True
+target_error = 0.45 cm
+behavior = retract
+pre_reach = False
+average frequency over last 10 iterations = 16.25 Hz
+
+Tennis Ball Detection: FAILED
+Left Finger ArUco Marker Detection: SUCCEEDED
+Right Finger ArUco Marker Detection: SUCCEEDED
+gripper effort = -34.57
+distance_between_fingertips = 5.55 cm
+grasping_the_target = True
+behavior = retract
+pre_reach = False
+average frequency over last 10 iterations = 14.49 Hz
+
+Tennis Ball Detection: SUCCEEDED
+Left Finger ArUco Marker Detection: SUCCEEDED
+Right Finger ArUco Marker Detection: SUCCEEDED
+gripper effort = -34.57
+distance_between_fingertips = 5.56 cm
+grasping_the_target = True
+target_error = 0.45 cm
+behavior = retract
+pre_reach = False
+average frequency over last 10 iterations = 16.41 Hz
+
+Tennis Ball Detection: SUCCEEDED
+Left Finger ArUco Marker Detection: SUCCEEDED
+Right Finger ArUco Marker Detection: SUCCEEDED
+gripper effort = -34.57
+distance_between_fingertips = 5.56 cm
+grasping_the_target = True
+target_error = 0.46 cm
+behavior = retract
+pre_reach = False
+average frequency over last 10 iterations = 14.33 Hz
+
+Tennis Ball Detection: FAILED
+Left Finger ArUco Marker Detection: SUCCEEDED
+Right Finger ArUco Marker Detection: SUCCEEDED
+gripper effort = -39.84
+distance_between_fingertips = 5.56 cm
+grasping_the_target = True
+behavior = retract
+pre_reach = False
+average frequency over last 10 iterations = 14.19 Hz
+
+Tennis Ball Detection: SUCCEEDED
+Left Finger ArUco Marker Detection: SUCCEEDED
+Right Finger ArUco Marker Detection: SUCCEEDED
+gripper effort = -39.84
+distance_between_fingertips = 5.60 cm
+grasping_the_target = True
+target_error = 0.43 cm
+behavior = retract
+pre_reach = False
+average frequency over last 10 iterations = 14.17 Hz
+
+Tennis Ball Detection: SUCCEEDED
+Left Finger ArUco Marker Detection: SUCCEEDED
+Right Finger ArUco Marker Detection: SUCCEEDED
+gripper effort = -39.84
+distance_between_fingertips = 5.61 cm
+grasping_the_target = True
+target_error = 0.44 cm
+behavior = retract
+pre_reach = False
+average frequency over last 10 iterations = 14.04 Hz
+
+Tennis Ball Detection: SUCCEEDED
+Left Finger ArUco Marker Detection: SUCCEEDED
+Right Finger ArUco Marker Detection: SUCCEEDED
+gripper effort = -40.23
+distance_between_fingertips = 5.56 cm
+grasping_the_target = True
+target_error = 0.46 cm
+behavior = retract
+pre_reach = False
+average frequency over last 10 iterations = 13.97 Hz
+
+Tennis Ball Detection: SUCCEEDED
+Left Finger ArUco Marker Detection: SUCCEEDED
+Right Finger ArUco Marker Detection: SUCCEEDED
+gripper effort = -40.23
+distance_between_fingertips = 5.57 cm
+grasping_the_target = True
+target_error = 0.49 cm
+behavior = retract
+pre_reach = False
+average frequency over last 10 iterations = 13.89 Hz
+
+Tennis Ball Detection: SUCCEEDED
+Left Finger ArUco Marker Detection: SUCCEEDED
+Right Finger ArUco Marker Detection: SUCCEEDED
+gripper effort = -40.33
+distance_between_fingertips = 5.57 cm
+grasping_the_target = True
+target_error = 0.44 cm
+behavior = retract
+pre_reach = False
+average frequency over last 10 iterations = 13.85 Hz
+
+Tennis Ball Detection: SUCCEEDED
+Left Finger ArUco Marker Detection: SUCCEEDED
+Right Finger ArUco Marker Detection: SUCCEEDED
+gripper effort = -40.33
+[INFO] [robot_monitor]: Base bump event
+[INFO] [robot_monitor]: Base bump event
+[INFO] [robot_monitor]: Base bump event
+[INFO] [robot_monitor]: Wrist single tap: 69
+[INFO] [robot_monitor]: Base bump event
+[INFO] [robot_monitor]: Base bump event
+[INFO] [robot_monitor]: Base bump event
+[INFO] [robot_monitor]: Base bump event
+distance_between_fingertips = 5.60 cm
+grasping_the_target = True
+target_error = 0.45 cm
+behavior = retract
+pre_reach = False
+average frequency over last 10 iterations = 13.81 Hz
+
+Tennis Ball Detection: SUCCEEDED
+Left Finger ArUco Marker Detection: SUCCEEDED
+Right Finger ArUco Marker Detection: SUCCEEDED
+gripper effort = -40.33
+distance_between_fingertips = 5.60 cm
+grasping_the_target = True
+target_error = 0.47 cm
+behavior = retract
+pre_reach = False
+average frequency over last 10 iterations = 13.92 Hz
+
+Tennis Ball Detection: FAILED
+Left Finger ArUco Marker Detection: SUCCEEDED
+Right Finger ArUco Marker Detection: SUCCEEDED
+gripper effort = -15.43
+distance_between_fingertips = 5.60 cm
+grasping_the_target = True
+behavior = retract
+pre_reach = False
+average frequency over last 10 iterations = 12.37 Hz
+
+Tennis Ball Detection: SUCCEEDED
+Left Finger ArUco Marker Detection: SUCCEEDED
+Right Finger ArUco Marker Detection: SUCCEEDED
+gripper effort = -15.43
+distance_between_fingertips = 5.55 cm
+grasping_the_target = True
+target_error = 0.50 cm
+behavior = retract
+pre_reach = False
+average frequency over last 10 iterations = 13.87 Hz
+
+Tennis Ball Detection: FAILED
+Left Finger ArUco Marker Detection: SUCCEEDED
+Right Finger ArUco Marker Detection: SUCCEEDED
+gripper effort = -15.43
+distance_between_fingertips = 5.55 cm
+grasping_the_target = True
+behavior = retract
+pre_reach = False
+average frequency over last 10 iterations = 13.92 Hz
+
+Tennis Ball Detection: SUCCEEDED
+Left Finger ArUco Marker Detection: SUCCEEDED
+Right Finger ArUco Marker Detection: SUCCEEDED
+gripper effort = -15.43
+distance_between_fingertips = 5.54 cm
+grasping_the_target = True
+target_error = 0.50 cm
+behavior = retract
+pre_reach = False
+average frequency over last 10 iterations = 13.97 Hz
+
+Tennis Ball Detection: FAILED
+Left Finger ArUco Marker Detection: SUCCEEDED
+Right Finger ArUco Marker Detection: SUCCEEDED
+gripper effort = -0.88
+distance_between_fingertips = 5.54 cm
+grasping_the_target = True
+behavior = retract
+pre_reach = False
+average frequency over last 10 iterations = 14.03 Hz
+
+Tennis Ball Detection: SUCCEEDED
+Left Finger ArUco Marker Detection: SUCCEEDED
+Right Finger ArUco Marker Detection: SUCCEEDED
+gripper effort = -0.88
+distance_between_fingertips = 5.43 cm
+grasping_the_target = True
+target_error = 0.52 cm
+behavior = retract
+pre_reach = False
+average frequency over last 10 iterations = 15.86 Hz
+
+Tennis Ball Detection: FAILED
+Left Finger ArUco Marker Detection: SUCCEEDED
+Right Finger ArUco Marker Detection: SUCCEEDED
+gripper effort = -0.88
+distance_between_fingertips = 5.43 cm
+grasping_the_target = True
+behavior = retract
+pre_reach = False
+average frequency over last 10 iterations = 15.83 Hz
+
+Tennis Ball Detection: SUCCEEDED
+Left Finger ArUco Marker Detection: SUCCEEDED
+Right Finger ArUco Marker Detection: SUCCEEDED
+gripper effort = -0.88
+distance_between_fingertips = 5.51 cm
+grasping_the_target = True
+target_error = 0.45 cm
+behavior = retract
+pre_reach = False
+average frequency over last 10 iterations = 18.30 Hz
+
+Tennis Ball Detection: FAILED
+Left Finger ArUco Marker Detection: SUCCEEDED
+Right Finger ArUco Marker Detection: SUCCEEDED
+gripper effort = -8.40
+distance_between_fingertips = 5.51 cm
+grasping_the_target = True
+behavior = retract
+pre_reach = False
+average frequency over last 10 iterations = 18.25 Hz
+
+Tennis Ball Detection: SUCCEEDED
+Left Finger ArUco Marker Detection: SUCCEEDED
+Right Finger ArUco Marker Detection: SUCCEEDED
+gripper effort = -8.40
+distance_between_fingertips = 5.56 cm
+grasping_the_target = True
+target_error = 0.39 cm
+behavior = retract
+pre_reach = False
+average frequency over last 10 iterations = 21.64 Hz
+
+Tennis Ball Detection: SUCCEEDED
+Left Finger ArUco Marker Detection: SUCCEEDED
+Right Finger ArUco Marker Detection: SUCCEEDED
+gripper effort = -8.40
+distance_between_fingertips = 5.55 cm
+grasping_the_target = True
+target_error = 0.48 cm
+behavior = retract
+pre_reach = False
+average frequency over last 10 iterations = 21.73 Hz
+
+Tennis Ball Detection: SUCCEEDED
+Left Finger ArUco Marker Detection: SUCCEEDED
+Right Finger ArUco Marker Detection: SUCCEEDED
+gripper effort = -7.81
+distance_between_fingertips = 5.57 cm
+grasping_the_target = True
+target_error = 0.37 cm
+behavior = retract
+pre_reach = False
+average frequency over last 10 iterations = 18.52 Hz
+
+Tennis Ball Detection: SUCCEEDED
+Left Finger ArUco Marker Detection: SUCCEEDED
+Right Finger ArUco Marker Detection: SUCCEEDED
+gripper effort = -7.81
+distance_between_fingertips = 5.55 cm
+grasping_the_target = True
+target_error = 0.38 cm
+behavior = retract
+pre_reach = False
+average frequency over last 10 iterations = 18.64 Hz
+
+Tennis Ball Detection: SUCCEEDED
+Left Finger ArUco Marker Detection: SUCCEEDED
+Right Finger ArUco Marker Detection: SUCCEEDED
+gripper effort = -7.81
+distance_between_fingertips = 5.53 cm
+grasping_the_target = True
+target_error = 0.44 cm
+behavior = retract
+pre_reach = False
+average frequency over last 10 iterations = 16.01 Hz
+
+Tennis Ball Detection: FAILED
+Left Finger ArUco Marker Detection: SUCCEEDED
+Right Finger ArUco Marker Detection: SUCCEEDED
+gripper effort = -7.81
+distance_between_fingertips = 5.53 cm
+grasping_the_target = True
+behavior = retract
+pre_reach = False
+average frequency over last 10 iterations = 15.92 Hz
+
+Tennis Ball Detection: SUCCEEDED
+Left Finger ArUco Marker Detection: SUCCEEDED
+Right Finger ArUco Marker Detection: SUCCEEDED
+gripper effort = -7.81
+distance_between_fingertips = 5.56 cm
+grasping_the_target = True
+target_error = 0.38 cm
+behavior = retract
+pre_reach = False
+average frequency over last 10 iterations = 15.97 Hz
+
+Tennis Ball Detection: SUCCEEDED
+Left Finger ArUco Marker Detection: SUCCEEDED
+Right Finger ArUco Marker Detection: SUCCEEDED
+gripper effort = -7.81
+distance_between_fingertips = 5.58 cm
+grasping_the_target = True
+target_error = 0.36 cm
+behavior = retract
+pre_reach = False
+average frequency over last 10 iterations = 15.98 Hz
+
+Tennis Ball Detection: FAILED
+Left Finger ArUco Marker Detection: SUCCEEDED
+Right Finger ArUco Marker Detection: SUCCEEDED
+gripper effort = -7.81
+distance_between_fingertips = 5.58 cm
+grasping_the_target = True
+behavior = retract
+pre_reach = False
+average frequency over last 10 iterations = 13.90 Hz
+
+Tennis Ball Detection: SUCCEEDED
+Left Finger ArUco Marker Detection: SUCCEEDED
+Right Finger ArUco Marker Detection: SUCCEEDED
+gripper effort = -7.81
+distance_between_fingertips = 5.52 cm
+grasping_the_target = True
+target_error = 0.41 cm
+behavior = retract
+pre_reach = False
+average frequency over last 10 iterations = 15.87 Hz
+
+Tennis Ball Detection: FAILED
+Left Finger ArUco Marker Detection: SUCCEEDED
+Right Finger ArUco Marker Detection: SUCCEEDED
+gripper effort = -7.81
+distance_between_fingertips = 5.52 cm
+grasping_the_target = True
+behavior = retract
+pre_reach = False
+average frequency over last 10 iterations = 13.77 Hz
+
+Tennis Ball Detection: SUCCEEDED
+Left Finger ArUco Marker Detection: SUCCEEDED
+Right Finger ArUco Marker Detection: SUCCEEDED
+gripper effort = -7.81
+distance_between_fingertips = 5.53 cm
+grasping_the_target = True
+target_error = 0.38 cm
+behavior = retract
+pre_reach = False
+average frequency over last 10 iterations = 15.63 Hz
+
+Tennis Ball Detection: SUCCEEDED
+Left Finger ArUco Marker Detection: SUCCEEDED
+Right Finger ArUco Marker Detection: SUCCEEDED
+gripper effort = -7.81
+distance_between_fingertips = 5.58 cm
+grasping_the_target = True
+target_error = 0.38 cm
+behavior = retract
+pre_reach = False
+average frequency over last 10 iterations = 15.50 Hz
+
+Tennis Ball Detection: SUCCEEDED
+Left Finger ArUco Marker Detection: SUCCEEDED
+Right Finger ArUco Marker Detection: SUCCEEDED
+gripper effort = -7.81
+distance_between_fingertips = 5.52 cm
+grasping_the_target = True
+target_error = 0.42 cm
+behavior = retract
+pre_reach = False
+average frequency over last 10 iterations = 15.21 Hz
+
+Tennis Ball Detection: FAILED
+Left Finger ArUco Marker Detection: SUCCEEDED
+Right Finger ArUco Marker Detection: SUCCEEDED
+gripper effort = -7.81
+distance_between_fingertips = 5.52 cm
+grasping_the_target = True
+behavior = retract
+pre_reach = False
+average frequency over last 10 iterations = 14.98 Hz
+
+Tennis Ball Detection: SUCCEEDED
+[INFO] [robot_monitor]: Base bump event
+[INFO] [robot_monitor]: Base bump event
+[INFO] [robot_monitor]: Base bump event
+[INFO] [robot_monitor]: Base bump event
+Left Finger ArUco Marker Detection: SUCCEEDED
+Right Finger ArUco Marker Detection: SUCCEEDED
+gripper effort = -7.81
+distance_between_fingertips = 5.57 cm
+grasping_the_target = True
+target_error = 0.41 cm
+behavior = celebrate
+pre_reach = False
+average frequency over last 10 iterations = 14.31 Hz
+
+Tennis Ball Detection: SUCCEEDED
+Left Finger ArUco Marker Detection: SUCCEEDED
+Right Finger ArUco Marker Detection: SUCCEEDED
+gripper effort = -7.81
+distance_between_fingertips = 5.51 cm
+grasping_the_target = True
+target_error = 0.42 cm
+behavior = celebrate
+pre_reach = False
+average frequency over last 10 iterations = 9.78 Hz
+
+Tennis Ball Detection: SUCCEEDED
+Left Finger ArUco Marker Detection: SUCCEEDED
+Right Finger ArUco Marker Detection: SUCCEEDED
+gripper effort = -3.52
+distance_between_fingertips = 5.54 cm
+grasping_the_target = True
+target_error = 0.42 cm
+behavior = celebrate
+pre_reach = False
+average frequency over last 10 iterations = 10.52 Hz
+
+Tennis Ball Detection: SUCCEEDED
+Left Finger ArUco Marker Detection: SUCCEEDED
+Right Finger ArUco Marker Detection: SUCCEEDED
+gripper effort = -3.52
+distance_between_fingertips = 5.51 cm
+grasping_the_target = True
+target_error = 0.40 cm
+behavior = celebrate
+pre_reach = False
+average frequency over last 10 iterations = 11.45 Hz
+
+Tennis Ball Detection: SUCCEEDED
+Left Finger ArUco Marker Detection: SUCCEEDED
+Right Finger ArUco Marker Detection: SUCCEEDED
+gripper effort = -3.52
+distance_between_fingertips = 5.54 cm
+grasping_the_target = True
+target_error = 0.41 cm
+behavior = celebrate
+pre_reach = False
+average frequency over last 10 iterations = 10.54 Hz
+
+Tennis Ball Detection: SUCCEEDED
+Left Finger ArUco Marker Detection: SUCCEEDED
+Right Finger ArUco Marker Detection: SUCCEEDED
+gripper effort = -2.34
+distance_between_fingertips = 5.53 cm
+grasping_the_target = True
+target_error = 0.43 cm
+behavior = celebrate
+pre_reach = False
+average frequency over last 10 iterations = 10.65 Hz
+
+Tennis Ball Detection: SUCCEEDED
+Left Finger ArUco Marker Detection: SUCCEEDED
+Right Finger ArUco Marker Detection: SUCCEEDED
+gripper effort = -2.34
+distance_between_fingertips = 5.50 cm
+grasping_the_target = True
+target_error = 0.46 cm
+behavior = celebrate
+pre_reach = False
+average frequency over last 10 iterations = 9.72 Hz
+
+Tennis Ball Detection: SUCCEEDED
+Left Finger ArUco Marker Detection: SUCCEEDED
+Right Finger ArUco Marker Detection: SUCCEEDED
+gripper effort = -2.15
+distance_between_fingertips = 5.49 cm
+grasping_the_target = True
+target_error = 0.44 cm
+behavior = celebrate
+pre_reach = False
+average frequency over last 10 iterations = 9.70 Hz
+
+Tennis Ball Detection: FAILED
+Left Finger ArUco Marker Detection: SUCCEEDED
+Right Finger ArUco Marker Detection: SUCCEEDED
+gripper effort = -2.15
+distance_between_fingertips = 5.49 cm
+grasping_the_target = True
+behavior = celebrate
+pre_reach = False
+average frequency over last 10 iterations = 9.70 Hz
+
+Tennis Ball Detection: SUCCEEDED
+Left Finger ArUco Marker Detection: SUCCEEDED
+Right Finger ArUco Marker Detection: SUCCEEDED
+gripper effort = -2.15
+distance_between_fingertips = 5.49 cm
+grasping_the_target = True
+target_error = 0.42 cm
+behavior = celebrate
+pre_reach = False
+average frequency over last 10 iterations = 10.55 Hz
+
+Tennis Ball Detection: SUCCEEDED
+Left Finger ArUco Marker Detection: SUCCEEDED
+Right Finger ArUco Marker Detection: SUCCEEDED
+gripper effort = -2.15
+distance_between_fingertips = 5.54 cm
+grasping_the_target = True
+target_error = 0.42 cm
+behavior = celebrate
+pre_reach = False
+average frequency over last 10 iterations = 10.90 Hz
+
+Tennis Ball Detection: SUCCEEDED
+Left Finger ArUco Marker Detection: SUCCEEDED
+Right Finger ArUco Marker Detection: SUCCEEDED
+gripper effort = -2.15
+distance_between_fingertips = 5.53 cm
+grasping_the_target = True
+target_error = 0.43 cm
+behavior = celebrate
+pre_reach = False
+average frequency over last 10 iterations = 14.96 Hz
+
+Tennis Ball Detection: SUCCEEDED
+Left Finger ArUco Marker Detection: SUCCEEDED
+Right Finger ArUco Marker Detection: SUCCEEDED
+gripper effort = -2.15
+distance_between_fingertips = 5.53 cm
+grasping_the_target = True
+target_error = 0.41 cm
+behavior = celebrate
+pre_reach = False
+average frequency over last 10 iterations = 13.57 Hz
+
+Tennis Ball Detection: FAILED
+Left Finger ArUco Marker Detection: SUCCEEDED
+Right Finger ArUco Marker Detection: SUCCEEDED
+gripper effort = -2.15
+distance_between_fingertips = 5.53 cm
+grasping_the_target = True
+behavior = celebrate
+pre_reach = False
+average frequency over last 10 iterations = 12.51 Hz
+
+Tennis Ball Detection: SUCCEEDED
+Left Finger ArUco Marker Detection: SUCCEEDED
+Right Finger ArUco Marker Detection: SUCCEEDED
+gripper effort = -2.15
+distance_between_fingertips = 5.39 cm
+grasping_the_target = True
+target_error = 0.50 cm
+behavior = celebrate
+pre_reach = False
+average frequency over last 10 iterations = 13.70 Hz
+
+Tennis Ball Detection: FAILED
+Left Finger ArUco Marker Detection: SUCCEEDED
+Right Finger ArUco Marker Detection: SUCCEEDED
+gripper effort = -2.15
+distance_between_fingertips = 5.39 cm
+grasping_the_target = True
+behavior = celebrate
+pre_reach = False
+average frequency over last 10 iterations = 13.94 Hz
+
+Tennis Ball Detection: SUCCEEDED
+Left Finger ArUco Marker Detection: SUCCEEDED
+Right Finger ArUco Marker Detection: SUCCEEDED
+gripper effort = -2.15
+distance_between_fingertips = 5.50 cm
+grasping_the_target = True
+target_error = 0.40 cm
+behavior = celebrate
+pre_reach = False
+average frequency over last 10 iterations = 15.69 Hz
+
+Tennis Ball Detection: FAILED
+Left Finger ArUco Marker Detection: SUCCEEDED
+Right Finger ArUco Marker Detection: SUCCEEDED
+gripper effort = -2.15
+distance_between_fingertips = 5.50 cm
+grasping_the_target = True
+behavior = celebrate
+pre_reach = False
+average frequency over last 10 iterations = 16.07 Hz
+
+Tennis Ball Detection: SUCCEEDED
+Left Finger ArUco Marker Detection: SUCCEEDED
+Right Finger ArUco Marker Detection: SUCCEEDED
+gripper effort = -2.15
+distance_between_fingertips = 5.52 cm
+grasping_the_target = True
+target_error = 0.42 cm
+behavior = celebrate
+pre_reach = False
+average frequency over last 10 iterations = 18.02 Hz
+
+Tennis Ball Detection: FAILED
+Left Finger ArUco Marker Detection: SUCCEEDED
+Right Finger ArUco Marker Detection: SUCCEEDED
+gripper effort = -2.15
+distance_between_fingertips = 5.52 cm
+grasping_the_target = True
+behavior = celebrate
+pre_reach = False
+average frequency over last 10 iterations = 16.26 Hz
+
+Tennis Ball Detection: SUCCEEDED
+Left Finger ArUco Marker Detection: SUCCEEDED
+Right Finger ArUco Marker Detection: SUCCEEDED
+gripper effort = -2.15
+distance_between_fingertips = 5.47 cm
+grasping_the_target = True
+target_error = 0.44 cm
+behavior = celebrate
+pre_reach = False
+average frequency over last 10 iterations = 18.83 Hz
+
+Tennis Ball Detection: FAILED
+Left Finger ArUco Marker Detection: SUCCEEDED
+Right Finger ArUco Marker Detection: SUCCEEDED
+gripper effort = -2.15
+distance_between_fingertips = 5.47 cm
+grasping_the_target = True
+behavior = celebrate
+pre_reach = False
+average frequency over last 10 iterations = 18.96 Hz
+
+Tennis Ball Detection: SUCCEEDED
+Left Finger ArUco Marker Detection: SUCCEEDED
+Right Finger ArUco Marker Detection: SUCCEEDED
+gripper effort = -2.15
+distance_between_fingertips = 5.53 cm
+grasping_the_target = True
+target_error = 0.43 cm
+behavior = celebrate
+pre_reach = False
+average frequency over last 10 iterations = 21.37 Hz
+
+Tennis Ball Detection: FAILED
+Left Finger ArUco Marker Detection: SUCCEEDED
+Right Finger ArUco Marker Detection: SUCCEEDED
+gripper effort = -2.15
+distance_between_fingertips = 5.53 cm
+grasping_the_target = True
+behavior = celebrate
+pre_reach = False
+average frequency over last 10 iterations = 21.28 Hz
+
+Tennis Ball Detection: SUCCEEDED
+Left Finger ArUco Marker Detection: SUCCEEDED
+Right Finger ArUco Marker Detection: SUCCEEDED
+gripper effort = -2.15
+distance_between_fingertips = 5.57 cm
+grasping_the_target = True
+target_error = 0.42 cm
+behavior = celebrate
+pre_reach = False
+average frequency over last 10 iterations = 20.84 Hz
+
+Tennis Ball Detection: FAILED
+Left Finger ArUco Marker Detection: SUCCEEDED
+Right Finger ArUco Marker Detection: SUCCEEDED
+gripper effort = -2.15
+distance_between_fingertips = 5.57 cm
+grasping_the_target = True
+behavior = celebrate
+pre_reach = False
+average frequency over last 10 iterations = 20.66 Hz
+
+Tennis Ball Detection: SUCCEEDED
+Left Finger ArUco Marker Detection: SUCCEEDED
+Right Finger ArUco Marker Detection: SUCCEEDED
+gripper effort = -2.15
+distance_between_fingertips = 5.46 cm
+grasping_the_target = True
+target_error = 0.43 cm
+behavior = celebrate
+pre_reach = False
+average frequency over last 10 iterations = 20.30 Hz
+
+Tennis Ball Detection: FAILED
+Left Finger ArUco Marker Detection: SUCCEEDED
+Right Finger ArUco Marker Detection: SUCCEEDED
+gripper effort = -2.15
+distance_between_fingertips = 5.46 cm
+grasping_the_target = True
+behavior = reach
+pre_reach = True
+average frequency over last 10 iterations = 20.34 Hz
+
+Tennis Ball Detection: SUCCEEDED
+Left Finger ArUco Marker Detection: SUCCEEDED
+Right Finger ArUco Marker Detection: SUCCEEDED
+gripper effort = -2.15
+distance_between_fingertips = 5.55 cm
+grasping_the_target = True
+target_error = 0.38 cm
+behavior = reach
+pre_reach = True
+average frequency over last 10 iterations = 21.34 Hz
+
+Tennis Ball Detection: FAILED
+Left Finger ArUco Marker Detection: SUCCEEDED
+Right Finger ArUco Marker Detection: SUCCEEDED
+gripper effort = -2.15
+distance_between_fingertips = 5.55 cm
+grasping_the_target = True
+behavior = reach
+pre_reach = True
+average frequency over last 10 iterations = 21.27 Hz
+
+Tennis Ball Detection: SUCCEEDED
+Left Finger ArUco Marker Detection: SUCCEEDED
+Right Finger ArUco Marker Detection: SUCCEEDED
+gripper effort = -2.15
+distance_between_fingertips = 5.52 cm
+grasping_the_target = True
+target_error = 0.43 cm
+behavior = reach
+pre_reach = True
+average frequency over last 10 iterations = 21.34 Hz
+
+Tennis Ball Detection: FAILED
+Left Finger ArUco Marker Detection: SUCCEEDED
+Right Finger ArUco Marker Detection: SUCCEEDED
+gripper effort = -2.15
+distance_between_fingertips = 5.52 cm
+grasping_the_target = True
+behavior = reach
+pre_reach = True
+average frequency over last 10 iterations = 21.03 Hz
+
+Tennis Ball Detection: SUCCEEDED
+Left Finger ArUco Marker Detection: SUCCEEDED
+Right Finger ArUco Marker Detection: SUCCEEDED
+gripper effort = -2.15
+distance_between_fingertips = 5.57 cm
+grasping_the_target = True
+target_error = 0.34 cm
+behavior = reach
+pre_reach = True
+average frequency over last 10 iterations = 22.20 Hz
+
+Tennis Ball Detection: FAILED
+Left Finger ArUco Marker Detection: SUCCEEDED
+Right Finger ArUco Marker Detection: SUCCEEDED
+gripper effort = -2.15
+distance_between_fingertips = 5.57 cm
+grasping_the_target = True
+behavior = reach
+pre_reach = True
+average frequency over last 10 iterations = 22.11 Hz
+
+Tennis Ball Detection: SUCCEEDED
+Left Finger ArUco Marker Detection: SUCCEEDED
+Right Finger ArUco Marker Detection: SUCCEEDED
+gripper effort = -2.15
+distance_between_fingertips = 5.53 cm
+grasping_the_target = True
+target_error = 0.40 cm
+behavior = reach
+pre_reach = True
+average frequency over last 10 iterations = 22.91 Hz
+
+Tennis Ball Detection: SUCCEEDED
+Left Finger ArUco Marker Detection: SUCCEEDED
+Right Finger ArUco Marker Detection: SUCCEEDED
+gripper effort = -2.15
+distance_between_fingertips = 5.41 cm
+grasping_the_target = True
+target_error = 0.45 cm
+behavior = reach
+pre_reach = True
+average frequency over last 10 iterations = 22.56 Hz
+
+Tennis Ball Detection: SUCCEEDED
+Left Finger ArUco Marker Detection: SUCCEEDED
+Right Finger ArUco Marker Detection: SUCCEEDED
+gripper effort = -2.15
+distance_between_fingertips = 5.58 cm
+grasping_the_target = True
+target_error = 0.40 cm
+behavior = reach
+pre_reach = True
+average frequency over last 10 iterations = 19.88 Hz
+
+Tennis Ball Detection: SUCCEEDED
+Left Finger ArUco Marker Detection: SUCCEEDED
+Right Finger ArUco Marker Detection: SUCCEEDED
+gripper effort = -2.15
+distance_between_fingertips = 5.44 cm
+grasping_the_target = True
+target_error = 0.44 cm
+behavior = reach
+pre_reach = True
+average frequency over last 10 iterations = 19.22 Hz
+
+Tennis Ball Detection: SUCCEEDED
+Left Finger ArUco Marker Detection: SUCCEEDED
+Right Finger ArUco Marker Detection: SUCCEEDED
+gripper effort = -2.15
+distance_between_fingertips = 5.53 cm
+grasping_the_target = True
+target_error = 0.39 cm
+behavior = reach
+pre_reach = True
+average frequency over last 10 iterations = 16.74 Hz
+
+Tennis Ball Detection: SUCCEEDED
+Left Finger ArUco Marker Detection: SUCCEEDED
+Right Finger ArUco Marker Detection: SUCCEEDED
+gripper effort = -2.15
+distance_between_fingertips = 5.46 cm
+grasping_the_target = True
+target_error = 0.46 cm
+behavior = reach
+pre_reach = True
+average frequency over last 10 iterations = 16.46 Hz
+
+Tennis Ball Detection: SUCCEEDED
+Left Finger ArUco Marker Detection: SUCCEEDED
+Right Finger ArUco Marker Detection: SUCCEEDED
+gripper effort = -2.15
+distance_between_fingertips = 5.49 cm
+grasping_the_target = True
+target_error = 0.40 cm
+behavior = reach
+pre_reach = True
+average frequency over last 10 iterations = 14.68 Hz
+
+Tennis Ball Detection: SUCCEEDED
+Left Finger ArUco Marker Detection: SUCCEEDED
+Right Finger ArUco Marker Detection: SUCCEEDED
+gripper effort = -2.15
+distance_between_fingertips = 5.52 cm
+grasping_the_target = True
+target_error = 0.40 cm
+behavior = reach
+pre_reach = True
+average frequency over last 10 iterations = 14.62 Hz
+
+Tennis Ball Detection: SUCCEEDED
+Left Finger ArUco Marker Detection: SUCCEEDED
+Right Finger ArUco Marker Detection: SUCCEEDED
+gripper effort = -2.15
+distance_between_fingertips = 5.46 cm
+grasping_the_target = True
+target_error = 0.44 cm
+behavior = reach
+pre_reach = True
+average frequency over last 10 iterations = 13.06 Hz
+
+Tennis Ball Detection: SUCCEEDED
+Left Finger ArUco Marker Detection: SUCCEEDED
+Right Finger ArUco Marker Detection: SUCCEEDED
+gripper effort = -2.15
+distance_between_fingertips = 5.52 cm
+grasping_the_target = True
+target_error = 0.40 cm
+behavior = reach
+pre_reach = True
+average frequency over last 10 iterations = 13.12 Hz
+
+Tennis Ball Detection: SUCCEEDED
+Left Finger ArUco Marker Detection: SUCCEEDED
+Right Finger ArUco Marker Detection: SUCCEEDED
+gripper effort = -2.15
+distance_between_fingertips = 5.42 cm
+grasping_the_target = True
+target_error = 0.45 cm
+behavior = reach
+pre_reach = True
+average frequency over last 10 iterations = 11.94 Hz
+
+Tennis Ball Detection: SUCCEEDED
+Left Finger ArUco Marker Detection: SUCCEEDED
+Right Finger ArUco Marker Detection: SUCCEEDED
+gripper effort = -2.15
+distance_between_fingertips = 5.51 cm
+grasping_the_target = True
+target_error = 0.42 cm
+behavior = reach
+pre_reach = True
+average frequency over last 10 iterations = 11.99 Hz
+
+Tennis Ball Detection: SUCCEEDED
+Left Finger ArUco Marker Detection: SUCCEEDED
+Right Finger ArUco Marker Detection: SUCCEEDED
+gripper effort = -2.15
+distance_between_fingertips = 5.49 cm
+grasping_the_target = True
+target_error = 0.43 cm
+behavior = reach
+pre_reach = True
+average frequency over last 10 iterations = 11.98 Hz
+
+Tennis Ball Detection: SUCCEEDED
+Left Finger ArUco Marker Detection: SUCCEEDED
+Right Finger ArUco Marker Detection: SUCCEEDED
+gripper effort = -2.15
+distance_between_fingertips = 5.55 cm
+grasping_the_target = True
+target_error = 0.39 cm
+behavior = reach
+pre_reach = True
+average frequency over last 10 iterations = 11.95 Hz
+
+Tennis Ball Detection: SUCCEEDED
+Left Finger ArUco Marker Detection: SUCCEEDED
+Right Finger ArUco Marker Detection: SUCCEEDED
+gripper effort = -2.15
+distance_between_fingertips = 5.53 cm
+grasping_the_target = True
+target_error = 0.41 cm
+behavior = reach
+pre_reach = True
+average frequency over last 10 iterations = 11.83 Hz
+
+Tennis Ball Detection: FAILED
+Left Finger ArUco Marker Detection: SUCCEEDED
+Right Finger ArUco Marker Detection: SUCCEEDED
+gripper effort = -1.66
+distance_between_fingertips = 5.53 cm
+grasping_the_target = True
+behavior = reach
+pre_reach = True
+average frequency over last 10 iterations = 11.73 Hz
+
+Tennis Ball Detection: SUCCEEDED
+Left Finger ArUco Marker Detection: SUCCEEDED
+Right Finger ArUco Marker Detection: SUCCEEDED
+gripper effort = -1.66
+distance_between_fingertips = 5.43 cm
+grasping_the_target = True
+target_error = 0.41 cm
+behavior = reach
+pre_reach = True
+average frequency over last 10 iterations = 12.92 Hz
+
+Tennis Ball Detection: SUCCEEDED
