@@ -1,0 +1,174 @@
+[INFO] [1744256638.433895080] [head_marker_align_node]: head_marker_align_node started
+[INFO] [1744256638.562085666] [head_marker_align_node]: Node head_marker_align_node connected to /home_the_robot service.
+[INFO] [1744256638.567101915] [head_marker_align_node]: Node head_marker_align_node connected to /stow_the_robot service.
+[INFO] [1744256638.570701135] [head_marker_align_node]: Node head_marker_align_node connected to /stop_the_robot service.
+[INFO] [1744256638.574398414] [head_marker_align_node]: Node head_marker_align_node connected to /switch_to_trajectory_mode service.
+[INFO] [1744256638.578922049] [head_marker_align_node]: Node head_marker_align_node connected to /switch_to_position_mode service.
+[INFO] [1744256638.582086780] [head_marker_align_node]: Node head_marker_align_node connected to /switch_to_navigation_mode service.
+[INFO] [1744256638.582544331] [head_marker_align_node]: Node head_marker_align_node waiting to receive first point cloud.
+[INFO] [1744256638.582829826] [head_marker_align_node]: Node head_marker_align_node received first point cloud, so continuing.
+[INFO] [1744256638.583419656] [head_marker_align_node]: Centering head pan and tilt...
+[WARN] [1744256638.589071376] [head_marker_align_node]: Currently in navigation mode. Recommend switching either to position or trajectory mode
+[WARN] [1744256638.590289695] [head_marker_align_node]: Commanding joint trajectory server in position mode
+[INFO] [1744256639.597628131] [head_marker_align_node]: Scanning for marker ID 6 at 0.1 rad/s...
+[INFO] [1744256690.786804038] [head_marker_align_node]: Marker found. Starting fine alignment on Y...
+[INFO] [1744256690.788151100] [head_marker_align_node]: Y=-0.2563 → Turning right
+[INFO] [1744256691.199136572] [head_marker_align_node]: Y=-0.2563 → Turning right
+[INFO] [1744256691.604618692] [head_marker_align_node]: Y=-0.2563 → Turning right
+[INFO] [1744256692.008161374] [head_marker_align_node]: Y=-0.2563 → Turning right
+[INFO] [1744256692.410382300] [head_marker_align_node]: Y=-0.2563 → Turning right
+[INFO] [1744256692.813790996] [head_marker_align_node]: Y=-0.2563 → Turning right
+[INFO] [1744256693.217190369] [head_marker_align_node]: Y=-0.2563 → Turning right
+[INFO] [1744256693.623937730] [head_marker_align_node]: Y=-0.2563 → Turning right
+[INFO] [1744256694.028177956] [head_marker_align_node]: Y=-0.2563 → Turning right
+[INFO] [1744256694.431144795] [head_marker_align_node]: Y=-0.2563 → Turning right
+[INFO] [1744256694.837082127] [head_marker_align_node]: Y=-0.2395 → Turning right
+[INFO] [1744256695.244637355] [head_marker_align_node]: Y=-0.2328 → Turning right
+[INFO] [1744256695.646621506] [head_marker_align_node]: Y=-0.2258 → Turning right
+[INFO] [1744256696.052198985] [head_marker_align_node]: Y=-0.2179 → Turning right
+[INFO] [1744256696.456444406] [head_marker_align_node]: Y=-0.2111 → Turning right
+[INFO] [1744256696.862268488] [head_marker_align_node]: Y=-0.2031 → Turning right
+[INFO] [1744256697.265400082] [head_marker_align_node]: Y=-0.2030 → Turning right
+[INFO] [1744256697.674184910] [head_marker_align_node]: Y=-0.1872 → Turning right
+[INFO] [1744256698.078743502] [head_marker_align_node]: Y=-0.1828 → Turning right
+[INFO] [1744256698.481631507] [head_marker_align_node]: Y=-0.1828 → Turning right
+[INFO] [1744256698.884165530] [head_marker_align_node]: Y=-0.1828 → Turning right
+[INFO] [1744256699.286862342] [head_marker_align_node]: Y=-0.1828 → Turning right
+[INFO] [1744256699.690089760] [head_marker_align_node]: Y=-0.1828 → Turning right
+[INFO] [1744256700.094859013] [head_marker_align_node]: Y=-0.1828 → Turning right
+[INFO] [1744256700.499027043] [head_marker_align_node]: Y=-0.1828 → Turning right
+[INFO] [1744256700.901657817] [head_marker_align_node]: Y=-0.1828 → Turning right
+[INFO] [1744256701.309157846] [head_marker_align_node]: Y=-0.1828 → Turning right
+[INFO] [1744256701.712732624] [head_marker_align_node]: Y=-0.1828 → Turning right
+[INFO] [1744256702.116360644] [head_marker_align_node]: Y=-0.1828 → Turning right
+[INFO] [1744256702.520011850] [head_marker_align_node]: Y=-0.1828 → Turning right
+[INFO] [1744256702.921981307] [head_marker_align_node]: Y=-0.1828 → Turning right
+[INFO] [1744256703.325015821] [head_marker_align_node]: Y=-0.1828 → Turning right
+[INFO] [1744256703.728940456] [head_marker_align_node]: Y=-0.0673 → Turning right
+[INFO] [1744256704.132148089] [head_marker_align_node]: Y=-0.0602 → Turning right
+[INFO] [1744256704.538750163] [head_marker_align_node]: Y=-0.0578 → Turning right
+[INFO] [1744256704.941538697] [head_marker_align_node]: Y=-0.0529 → Turning right
+[INFO] [1744256705.345208187] [head_marker_align_node]: Y=-0.0503 → Turning right
+[INFO] [1744256705.748434661] [head_marker_align_node]: Y=-0.0433 → Turning right
+[INFO] [1744256706.154718521] [head_marker_align_node]: Y=-0.0348 → Turning right
+[INFO] [1744256706.558026225] [head_marker_align_node]: Y=-0.0273 → Turning right
+[INFO] [1744256706.961280087] [head_marker_align_node]: Y=-0.0212 → Turning right
+[INFO] [1744256707.372569226] [head_marker_align_node]: Y=-0.0160 → Turning right
+[INFO] [1744256707.785925833] [head_marker_align_node]: Y=-0.0119 → Turning right
+[INFO] [1744256708.191784651] [head_marker_align_node]: Y alignment complete! Y axis ≈ 0.00.
+[INFO] [1744256708.192811133] [head_marker_align_node]: Starting X-Z alignment loop...
+[INFO] [1744256708.193642789] [head_marker_align_node]: X=0.4649 → Tilting down to -0.02
+[WARN] [1744256708.194804164] [head_marker_align_node]: Currently in navigation mode. Recommend switching either to position or trajectory mode
+[WARN] [1744256708.195977006] [head_marker_align_node]: Commanding joint trajectory server in position mode
+[INFO] [1744256708.509294713] [head_marker_align_node]: X=0.4660 → Tilting down to -0.04
+[WARN] [1744256708.511347544] [head_marker_align_node]: Currently in navigation mode. Recommend switching either to position or trajectory mode
+[WARN] [1744256708.512522208] [head_marker_align_node]: Commanding joint trajectory server in position mode
+[INFO] [1744256708.836145504] [head_marker_align_node]: X=0.4576 → Tilting down to -0.06
+[WARN] [1744256708.844587419] [head_marker_align_node]: Currently in navigation mode. Recommend switching either to position or trajectory mode
+[WARN] [1744256708.846568869] [head_marker_align_node]: Commanding joint trajectory server in position mode
+[INFO] [1744256709.179961296] [head_marker_align_node]: X=0.4582 → Tilting down to -0.08
+[WARN] [1744256709.181281491] [head_marker_align_node]: Currently in navigation mode. Recommend switching either to position or trajectory mode
+[WARN] [1744256709.181982357] [head_marker_align_node]: Commanding joint trajectory server in position mode
+[INFO] [1744256709.515916586] [head_marker_align_node]: X=0.4388 → Tilting down to -0.10
+[WARN] [1744256709.517402174] [head_marker_align_node]: Currently in navigation mode. Recommend switching either to position or trajectory mode
+[WARN] [1744256709.518124556] [head_marker_align_node]: Commanding joint trajectory server in position mode
+[INFO] [1744256709.808617481] [head_marker_align_node]: X=0.4258 → Tilting down to -0.12
+[WARN] [1744256709.810101760] [head_marker_align_node]: Currently in navigation mode. Recommend switching either to position or trajectory mode
+[WARN] [1744256709.810774582] [head_marker_align_node]: Commanding joint trajectory server in position mode
+[INFO] [1744256710.114485606] [head_marker_align_node]: X=0.4044 → Tilting down to -0.14
+[WARN] [1744256710.116691666] [head_marker_align_node]: Currently in navigation mode. Recommend switching either to position or trajectory mode
+[WARN] [1744256710.118229389] [head_marker_align_node]: Commanding joint trajectory server in position mode
+[INFO] [1744256710.512177919] [head_marker_align_node]: X=0.3894 → Tilting down to -0.16
+[WARN] [1744256710.513558157] [head_marker_align_node]: Currently in navigation mode. Recommend switching either to position or trajectory mode
+[WARN] [1744256710.514183824] [head_marker_align_node]: Commanding joint trajectory server in position mode
+[INFO] [1744256710.835546327] [head_marker_align_node]: X=0.3743 → Tilting down to -0.18
+[WARN] [1744256710.836580411] [head_marker_align_node]: Currently in navigation mode. Recommend switching either to position or trajectory mode
+[WARN] [1744256710.837626322] [head_marker_align_node]: Commanding joint trajectory server in position mode
+[INFO] [1744256711.144233124] [head_marker_align_node]: X=0.3569 → Tilting down to -0.20
+[WARN] [1744256711.145349339] [head_marker_align_node]: Currently in navigation mode. Recommend switching either to position or trajectory mode
+[WARN] [1744256711.146063027] [head_marker_align_node]: Commanding joint trajectory server in position mode
+[INFO] [1744256711.439355564] [head_marker_align_node]: X=0.3431 → Tilting down to -0.22
+[WARN] [1744256711.440973215] [head_marker_align_node]: Currently in navigation mode. Recommend switching either to position or trajectory mode
+[WARN] [1744256711.441989238] [head_marker_align_node]: Commanding joint trajectory server in position mode
+[INFO] [1744256711.746353641] [head_marker_align_node]: X=0.3254 → Tilting down to -0.24
+[WARN] [1744256711.747676813] [head_marker_align_node]: Currently in navigation mode. Recommend switching either to position or trajectory mode
+[WARN] [1744256711.748521884] [head_marker_align_node]: Commanding joint trajectory server in position mode
+[INFO] [1744256712.030909068] [head_marker_align_node]: X=0.2933 → Tilting down to -0.26
+[WARN] [1744256712.032463534] [head_marker_align_node]: Currently in navigation mode. Recommend switching either to position or trajectory mode
+[WARN] [1744256712.033505502] [head_marker_align_node]: Commanding joint trajectory server in position mode
+[INFO] [1744256712.355158137] [head_marker_align_node]: X=0.2744 → Tilting down to -0.28
+[WARN] [1744256712.364792442] [head_marker_align_node]: Currently in navigation mode. Recommend switching either to position or trajectory mode
+[WARN] [1744256712.365774177] [head_marker_align_node]: Commanding joint trajectory server in position mode
+[INFO] [1744256712.685364405] [head_marker_align_node]: X=0.2609 → Tilting down to -0.30
+[WARN] [1744256712.686164836] [head_marker_align_node]: Currently in navigation mode. Recommend switching either to position or trajectory mode
+[WARN] [1744256712.686888425] [head_marker_align_node]: Commanding joint trajectory server in position mode
+[INFO] [1744256713.050771762] [head_marker_align_node]: X=0.2401 → Tilting down to -0.32
+[WARN] [1744256713.051995297] [head_marker_align_node]: Currently in navigation mode. Recommend switching either to position or trajectory mode
+[WARN] [1744256713.052757145] [head_marker_align_node]: Commanding joint trajectory server in position mode
+[INFO] [1744256713.393513245] [head_marker_align_node]: X=0.2314 → Tilting down to -0.34
+[WARN] [1744256713.395217768] [head_marker_align_node]: Currently in navigation mode. Recommend switching either to position or trajectory mode
+[WARN] [1744256713.396258152] [head_marker_align_node]: Commanding joint trajectory server in position mode
+[INFO] [1744256713.717046267] [head_marker_align_node]: X=0.2312 → Tilting down to -0.36
+[WARN] [1744256713.717922742] [head_marker_align_node]: Currently in navigation mode. Recommend switching either to position or trajectory mode
+[WARN] [1744256713.718571014] [head_marker_align_node]: Commanding joint trajectory server in position mode
+[INFO] [1744256714.070722583] [head_marker_align_node]: X=0.2145 → Tilting down to -0.38
+[WARN] [1744256714.072448928] [head_marker_align_node]: Currently in navigation mode. Recommend switching either to position or trajectory mode
+[WARN] [1744256714.079086669] [head_marker_align_node]: Commanding joint trajectory server in position mode
+[INFO] [1744256714.398853126] [head_marker_align_node]: X=0.1990 → Tilting down to -0.40
+[WARN] [1744256714.399762427] [head_marker_align_node]: Currently in navigation mode. Recommend switching either to position or trajectory mode
+[WARN] [1744256714.400096498] [head_marker_align_node]: Commanding joint trajectory server in position mode
+[INFO] [1744256714.718581197] [head_marker_align_node]: X=0.1821 → Tilting down to -0.42
+[WARN] [1744256714.719711081] [head_marker_align_node]: Currently in navigation mode. Recommend switching either to position or trajectory mode
+[WARN] [1744256714.722542877] [head_marker_align_node]: Commanding joint trajectory server in position mode
+[INFO] [1744256715.041531040] [head_marker_align_node]: X=0.1641 → Tilting down to -0.44
+[WARN] [1744256715.043006708] [head_marker_align_node]: Currently in navigation mode. Recommend switching either to position or trajectory mode
+[WARN] [1744256715.043996030] [head_marker_align_node]: Commanding joint trajectory server in position mode
+[INFO] [1744256715.378276052] [head_marker_align_node]: X=0.1476 → Tilting down to -0.46
+[WARN] [1744256715.379740401] [head_marker_align_node]: Currently in navigation mode. Recommend switching either to position or trajectory mode
+[WARN] [1744256715.380588540] [head_marker_align_node]: Commanding joint trajectory server in position mode
+[INFO] [1744256715.690039098] [head_marker_align_node]: X=0.1305 → Tilting down to -0.48
+[WARN] [1744256715.691481809] [head_marker_align_node]: Currently in navigation mode. Recommend switching either to position or trajectory mode
+[WARN] [1744256715.692462656] [head_marker_align_node]: Commanding joint trajectory server in position mode
+[INFO] [1744256716.020902306] [head_marker_align_node]: X=0.1139 → Tilting down to -0.50
+[WARN] [1744256716.023065166] [head_marker_align_node]: Currently in navigation mode. Recommend switching either to position or trajectory mode
+[WARN] [1744256716.024275049] [head_marker_align_node]: Commanding joint trajectory server in position mode
+[INFO] [1744256716.384794292] [head_marker_align_node]: X=0.0813 → Tilting down to -0.52
+[WARN] [1744256716.386214898] [head_marker_align_node]: Currently in navigation mode. Recommend switching either to position or trajectory mode
+[WARN] [1744256716.387206492] [head_marker_align_node]: Commanding joint trajectory server in position mode
+[INFO] [1744256716.709616535] [head_marker_align_node]: X=0.0809 → Tilting down to -0.54
+[WARN] [1744256716.710842733] [head_marker_align_node]: Currently in navigation mode. Recommend switching either to position or trajectory mode
+[WARN] [1744256716.712251197] [head_marker_align_node]: Commanding joint trajectory server in position mode
+[INFO] [1744256716.987426742] [head_marker_align_node]: X=0.0473 → Tilting down to -0.56
+[WARN] [1744256716.988485478] [head_marker_align_node]: Currently in navigation mode. Recommend switching either to position or trajectory mode
+[WARN] [1744256716.989294035] [head_marker_align_node]: Commanding joint trajectory server in position mode
+[INFO] [1744256717.340477611] [head_marker_align_node]: Z=0.8436 → Moving forward
+[INFO] [1744256717.943912580] [head_marker_align_node]: Z=0.8423 → Moving forward
+[INFO] [1744256718.547169247] [head_marker_align_node]: Z=0.8385 → Moving forward
+[INFO] [1744256719.160999445] [head_marker_align_node]: Z=0.8324 → Moving forward
+[INFO] [1744256719.764963478] [head_marker_align_node]: Z=0.8215 → Moving forward
+[INFO] [1744256720.375027112] [head_marker_align_node]: X=0.0322 → Tilting down to -0.58
+[WARN] [1744256720.376401454] [head_marker_align_node]: Currently in navigation mode. Recommend switching either to position or trajectory mode
+[WARN] [1744256720.377767548] [head_marker_align_node]: Commanding joint trajectory server in position mode
+[INFO] [1744256720.730881442] [head_marker_align_node]: X=0.0374 → Tilting down to -0.60
+[WARN] [1744256720.732169651] [head_marker_align_node]: Currently in navigation mode. Recommend switching either to position or trajectory mode
+[WARN] [1744256720.733143421] [head_marker_align_node]: Commanding joint trajectory server in position mode
+[INFO] [1744256721.046565071] [head_marker_align_node]: Z=0.8013 → Moving forward
+[INFO] [1744256721.650807672] [head_marker_align_node]: Z=0.8035 → Moving forward
+[INFO] [1744256722.253811855] [head_marker_align_node]: Z=0.7985 → Moving forward
+[INFO] [1744256722.858339312] [head_marker_align_node]: Z=0.7877 → Moving forward
+[INFO] [1744256723.462603964] [head_marker_align_node]: Z=0.7822 → Moving forward
+[INFO] [1744256724.067890412] [head_marker_align_node]: X=0.0304 → Tilting down to -0.62
+[WARN] [1744256724.072888335] [head_marker_align_node]: Currently in navigation mode. Recommend switching either to position or trajectory mode
+[WARN] [1744256724.074150649] [head_marker_align_node]: Commanding joint trajectory server in position mode
+[INFO] [1744256724.442545062] [head_marker_align_node]: X=0.0332 → Tilting down to -0.64
+[WARN] [1744256724.443800922] [head_marker_align_node]: Currently in navigation mode. Recommend switching either to position or trajectory mode
+[WARN] [1744256724.444584970] [head_marker_align_node]: Commanding joint trajectory server in position mode
+[INFO] [1744256724.760236949] [head_marker_align_node]: Z=0.7632 → Moving forward
+[INFO] [1744256725.365296462] [head_marker_align_node]: Z=0.7675 → Moving forward
+[INFO] [1744256725.968106549] [head_marker_align_node]: X and Z alignment complete.
+[INFO] [1744256725.969253043] [head_marker_align_node]: Rotating robot base 90° to the left...
+[INFO] [1744256733.886373836] [head_marker_align_node]: Robot base rotation complete.
+[INFO] [1744256733.886982891] [head_marker_align_node]: Panning head 90° to the right (1.57 rad)...
+[WARN] [1744256733.887694562] [head_marker_align_node]: Currently in navigation mode. Recommend switching either to position or trajectory mode
+[WARN] [1744256733.888343373] [head_marker_align_node]: Commanding joint trajectory server in position mode
+[INFO] [1744256734.784532416] [head_marker_align_node]: ✅ Final orientation complete. Arm is facing object, head is watching it.

@@ -1,0 +1,263 @@
+[INFO] [1744254312.561298710] [head_marker_align_node]: head_marker_align_node started
+[INFO] [1744254312.700638333] [head_marker_align_node]: Node head_marker_align_node connected to /home_the_robot service.
+[INFO] [1744254312.711009308] [head_marker_align_node]: Node head_marker_align_node connected to /stow_the_robot service.
+[INFO] [1744254312.718101881] [head_marker_align_node]: Node head_marker_align_node connected to /stop_the_robot service.
+[INFO] [1744254312.721927407] [head_marker_align_node]: Node head_marker_align_node connected to /switch_to_trajectory_mode service.
+[INFO] [1744254312.724154285] [head_marker_align_node]: Node head_marker_align_node connected to /switch_to_position_mode service.
+[INFO] [1744254312.726036549] [head_marker_align_node]: Node head_marker_align_node connected to /switch_to_navigation_mode service.
+[INFO] [1744254312.726817639] [head_marker_align_node]: Node head_marker_align_node waiting to receive first point cloud.
+[INFO] [1744254312.727628349] [head_marker_align_node]: Node head_marker_align_node received first point cloud, so continuing.
+[INFO] [1744254312.729003666] [head_marker_align_node]: Centering head pan and tilt...
+[WARN] [1744254312.730164116] [head_marker_align_node]: Currently in navigation mode. Recommend switching either to position or trajectory mode
+[WARN] [1744254312.731044348] [head_marker_align_node]: Commanding joint trajectory server in position mode
+[INFO] [1744254312.987547315] [head_marker_align_node]: Scanning for marker ID 6 at 0.1 rad/s...
+[INFO] [1744254313.001217214] [head_marker_align_node]: Marker ID 6 detected. Y=0.1747, Z=1.1747
+[INFO] [1744254313.082398153] [head_marker_align_node]: Marker ID 6 detected. Y=0.1757, Z=1.1790
+[INFO] [1744254313.093765240] [head_marker_align_node]: Marker found. Starting fine alignment on Y...
+[INFO] [1744254313.095018377] [head_marker_align_node]: Y=0.1757 → Turning left
+[INFO] [1744254313.157309636] [head_marker_align_node]: Marker ID 6 detected. Y=0.1746, Z=1.1726
+[INFO] [1744254313.247741112] [head_marker_align_node]: Marker ID 6 detected. Y=0.1746, Z=1.1714
+[INFO] [1744254313.323372623] [head_marker_align_node]: Marker ID 6 detected. Y=0.1751, Z=1.1782
+[INFO] [1744254313.422537519] [head_marker_align_node]: Marker ID 6 detected. Y=0.1745, Z=1.1734
+[INFO] [1744254313.486665254] [head_marker_align_node]: Marker ID 6 detected. Y=0.1754, Z=1.1767
+[INFO] [1744254313.498987141] [head_marker_align_node]: Y=0.1754 → Turning left
+[INFO] [1744254313.570882519] [head_marker_align_node]: Marker ID 6 detected. Y=0.1747, Z=1.1727
+[INFO] [1744254313.707930921] [head_marker_align_node]: Marker ID 6 detected. Y=0.1744, Z=1.1740
+[INFO] [1744254313.803902974] [head_marker_align_node]: Marker ID 6 detected. Y=0.1743, Z=1.1747
+[INFO] [1744254313.900818806] [head_marker_align_node]: Marker ID 6 detected. Y=0.1744, Z=1.1752
+[INFO] [1744254313.902153009] [head_marker_align_node]: Y=0.1744 → Turning left
+[INFO] [1744254313.990416140] [head_marker_align_node]: Marker ID 6 detected. Y=0.1744, Z=1.1773
+[INFO] [1744254314.063499624] [head_marker_align_node]: Marker ID 6 detected. Y=0.1744, Z=1.1756
+[INFO] [1744254314.202163206] [head_marker_align_node]: Marker ID 6 detected. Y=0.1740, Z=1.1785
+[INFO] [1744254314.290526601] [head_marker_align_node]: Marker ID 6 detected. Y=0.1733, Z=1.1764
+[INFO] [1744254314.307877589] [head_marker_align_node]: Y=0.1733 → Turning left
+[INFO] [1744254314.379989561] [head_marker_align_node]: Marker ID 6 detected. Y=0.1735, Z=1.1796
+[INFO] [1744254314.497882839] [head_marker_align_node]: Marker ID 6 detected. Y=0.1728, Z=1.1794
+[INFO] [1744254314.583614509] [head_marker_align_node]: Marker ID 6 detected. Y=0.1707, Z=1.1764
+[INFO] [1744254314.696973864] [head_marker_align_node]: Marker ID 6 detected. Y=0.1654, Z=1.1799
+[INFO] [1744254314.712011876] [head_marker_align_node]: Y=0.1654 → Turning left
+[INFO] [1744254314.779401202] [head_marker_align_node]: Marker ID 6 detected. Y=0.1589, Z=1.1791
+[INFO] [1744254314.900626427] [head_marker_align_node]: Marker ID 6 detected. Y=0.1558, Z=1.1781
+[INFO] [1744254315.001713433] [head_marker_align_node]: Marker ID 6 detected. Y=0.1551, Z=1.1784
+[INFO] [1744254315.120076537] [head_marker_align_node]: Marker ID 6 detected. Y=0.1445, Z=1.1699
+[INFO] [1744254315.125653059] [head_marker_align_node]: Y=0.1551 → Turning left
+[INFO] [1744254315.197612493] [head_marker_align_node]: Marker ID 6 detected. Y=0.1433, Z=1.1732
+[INFO] [1744254315.297151616] [head_marker_align_node]: Marker ID 6 detected. Y=0.1424, Z=1.1737
+[INFO] [1744254315.428280642] [head_marker_align_node]: Marker ID 6 detected. Y=0.1403, Z=1.1741
+[INFO] [1744254315.505255794] [head_marker_align_node]: Marker ID 6 detected. Y=0.1386, Z=1.1882
+[INFO] [1744254315.529469181] [head_marker_align_node]: Y=0.1386 → Turning left
+[INFO] [1744254315.622105901] [head_marker_align_node]: Marker ID 6 detected. Y=0.1351, Z=1.1848
+[INFO] [1744254315.722032311] [head_marker_align_node]: Marker ID 6 detected. Y=0.1358, Z=1.1883
+[INFO] [1744254315.831557121] [head_marker_align_node]: Marker ID 6 detected. Y=0.1350, Z=1.1858
+[INFO] [1744254315.932395978] [head_marker_align_node]: Y=0.1350 → Turning left
+[INFO] [1744254315.961803960] [head_marker_align_node]: Marker ID 6 detected. Y=0.1293, Z=1.1886
+[INFO] [1744254316.077619539] [head_marker_align_node]: Marker ID 6 detected. Y=0.1242, Z=1.1801
+[INFO] [1744254316.182048238] [head_marker_align_node]: Marker ID 6 detected. Y=0.1233, Z=1.1802
+[INFO] [1744254316.256571871] [head_marker_align_node]: Marker ID 6 detected. Y=0.1198, Z=1.1792
+[INFO] [1744254316.339305092] [head_marker_align_node]: Y=0.1198 → Turning left
+[INFO] [1744254316.382767498] [head_marker_align_node]: Marker ID 6 detected. Y=0.1106, Z=1.1824
+[INFO] [1744254316.496370118] [head_marker_align_node]: Marker ID 6 detected. Y=0.1087, Z=1.1783
+[INFO] [1744254316.582418187] [head_marker_align_node]: Marker ID 6 detected. Y=0.1073, Z=1.1778
+[INFO] [1744254316.699154537] [head_marker_align_node]: Marker ID 6 detected. Y=0.0997, Z=1.1829
+[INFO] [1744254316.743160337] [head_marker_align_node]: Y=0.0997 → Turning left
+[INFO] [1744254316.790792570] [head_marker_align_node]: Marker ID 6 detected. Y=0.0962, Z=1.1779
+[INFO] [1744254316.906429610] [head_marker_align_node]: Marker ID 6 detected. Y=0.0937, Z=1.1763
+[INFO] [1744254316.996702983] [head_marker_align_node]: Marker ID 6 detected. Y=0.0927, Z=1.1760
+[INFO] [1744254317.096396507] [head_marker_align_node]: Marker ID 6 detected. Y=0.0890, Z=1.1828
+[INFO] [1744254317.146960199] [head_marker_align_node]: Y=0.0890 → Turning left
+[INFO] [1744254317.211653231] [head_marker_align_node]: Marker ID 6 detected. Y=0.0827, Z=1.1774
+[INFO] [1744254317.305712016] [head_marker_align_node]: Marker ID 6 detected. Y=0.0823, Z=1.1787
+[INFO] [1744254317.424651302] [head_marker_align_node]: Marker ID 6 detected. Y=0.0795, Z=1.1787
+[INFO] [1744254317.489579423] [head_marker_align_node]: Marker ID 6 detected. Y=0.0760, Z=1.1797
+[INFO] [1744254317.565113813] [head_marker_align_node]: Y=0.0760 → Turning left
+[INFO] [1744254317.601964845] [head_marker_align_node]: Marker ID 6 detected. Y=0.0712, Z=1.1841
+[INFO] [1744254317.683066363] [head_marker_align_node]: Marker ID 6 detected. Y=0.0710, Z=1.1798
+[INFO] [1744254317.765651389] [head_marker_align_node]: Marker ID 6 detected. Y=0.0708, Z=1.1773
+[INFO] [1744254317.904214951] [head_marker_align_node]: Marker ID 6 detected. Y=0.0668, Z=1.1730
+[INFO] [1744254317.968529228] [head_marker_align_node]: Y=0.0668 → Turning left
+[INFO] [1744254317.987682934] [head_marker_align_node]: Marker ID 6 detected. Y=0.0630, Z=1.1764
+[INFO] [1744254318.101973849] [head_marker_align_node]: Marker ID 6 detected. Y=0.0622, Z=1.1828
+[INFO] [1744254318.193440282] [head_marker_align_node]: Marker ID 6 detected. Y=0.0624, Z=1.1807
+[INFO] [1744254318.291929533] [head_marker_align_node]: Marker ID 6 detected. Y=0.0600, Z=1.1838
+[INFO] [1744254318.374126321] [head_marker_align_node]: Y=0.0600 → Turning left
+[INFO] [1744254318.407579041] [head_marker_align_node]: Marker ID 6 detected. Y=0.0535, Z=1.1863
+[INFO] [1744254318.484972766] [head_marker_align_node]: Marker ID 6 detected. Y=0.0540, Z=1.1872
+[INFO] [1744254318.591428318] [head_marker_align_node]: Marker ID 6 detected. Y=0.0530, Z=1.1866
+[INFO] [1744254318.694248077] [head_marker_align_node]: Marker ID 6 detected. Y=0.0484, Z=1.1822
+[INFO] [1744254318.777197648] [head_marker_align_node]: Marker ID 6 detected. Y=0.0461, Z=1.1815
+[INFO] [1744254318.781256868] [head_marker_align_node]: Y=0.0461 → Turning left
+[INFO] [1744254318.898730247] [head_marker_align_node]: Marker ID 6 detected. Y=0.0427, Z=1.1846
+[INFO] [1744254318.983459423] [head_marker_align_node]: Marker ID 6 detected. Y=0.0422, Z=1.1825
+[INFO] [1744254319.125232027] [head_marker_align_node]: Marker ID 6 detected. Y=0.0408, Z=1.1839
+[INFO] [1744254319.185035991] [head_marker_align_node]: Y=0.0408 → Turning left
+[INFO] [1744254319.202199038] [head_marker_align_node]: Marker ID 6 detected. Y=0.0357, Z=1.1796
+[INFO] [1744254319.304012670] [head_marker_align_node]: Marker ID 6 detected. Y=0.0329, Z=1.1747
+[INFO] [1744254319.402243319] [head_marker_align_node]: Marker ID 6 detected. Y=0.0315, Z=1.1747
+[INFO] [1744254319.488885649] [head_marker_align_node]: Marker ID 6 detected. Y=0.0271, Z=1.1706
+[INFO] [1744254319.591638220] [head_marker_align_node]: Y=0.0271 → Turning left
+[INFO] [1744254319.623240920] [head_marker_align_node]: Marker ID 6 detected. Y=0.0205, Z=1.1904
+[INFO] [1744254319.699963748] [head_marker_align_node]: Marker ID 6 detected. Y=0.0198, Z=1.1931
+[INFO] [1744254319.802355539] [head_marker_align_node]: Marker ID 6 detected. Y=0.0186, Z=1.1931
+[INFO] [1744254319.866225788] [head_marker_align_node]: Marker ID 6 detected. Y=0.0145, Z=1.1932
+[INFO] [1744254319.954691878] [head_marker_align_node]: Marker ID 6 detected. Y=0.0114, Z=1.1837
+[INFO] [1744254319.996111355] [head_marker_align_node]: Y=0.0114 → Turning left
+[INFO] [1744254320.080980824] [head_marker_align_node]: Marker ID 6 detected. Y=0.0055, Z=1.1802
+[INFO] [1744254320.217024173] [head_marker_align_node]: Marker ID 6 detected. Y=0.0045, Z=1.1805
+[INFO] [1744254320.302814043] [head_marker_align_node]: Marker ID 6 detected. Y=0.0034, Z=1.1796
+[INFO] [1744254320.396465206] [head_marker_align_node]: Marker ID 6 detected. Y=-0.0013, Z=1.1761
+[INFO] [1744254320.398843815] [head_marker_align_node]: Y alignment complete! Y axis ≈ 0.00.
+[INFO] [1744254320.399401449] [head_marker_align_node]: Starting X-Z alignment loop...
+Exception in thread Thread-2 (rotate_and_align):
+Traceback (most recent call last):
+  File "/usr/lib/python3.10/threading.py", line 1016, in _bootstrap_inner
+    self.run()
+  File "/usr/lib/python3.10/threading.py", line 953, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/team19/team19_codes/rotate_stretch.py", line 89, in rotate_and_align
+    if self.marker_x is None or self.marker_z is None:
+AttributeError: 'HeadAndAlignToMarkerNode' object has no attribute 'marker_x'. Did you mean: 'marker_y'?
+[INFO] [1744254320.489056510] [head_marker_align_node]: Marker ID 6 detected. Y=-0.0051, Z=1.1772
+[INFO] [1744254320.579819582] [head_marker_align_node]: Marker ID 6 detected. Y=-0.0055, Z=1.1750
+[INFO] [1744254320.694255976] [head_marker_align_node]: Marker ID 6 detected. Y=-0.0073, Z=1.1775
+[INFO] [1744254320.800116887] [head_marker_align_node]: Marker ID 6 detected. Y=-0.0130, Z=1.1836
+[INFO] [1744254320.883933291] [head_marker_align_node]: Marker ID 6 detected. Y=-0.0174, Z=1.1801
+[INFO] [1744254320.971850194] [head_marker_align_node]: Marker ID 6 detected. Y=-0.0180, Z=1.1772
+[INFO] [1744254321.083294351] [head_marker_align_node]: Marker ID 6 detected. Y=-0.0181, Z=1.1722
+[INFO] [1744254321.162374835] [head_marker_align_node]: Marker ID 6 detected. Y=-0.0183, Z=1.1773
+[INFO] [1744254321.262194065] [head_marker_align_node]: Marker ID 6 detected. Y=-0.0185, Z=1.1724
+[INFO] [1744254321.351410434] [head_marker_align_node]: Marker ID 6 detected. Y=-0.0177, Z=1.1736
+[INFO] [1744254321.431866279] [head_marker_align_node]: Marker ID 6 detected. Y=-0.0183, Z=1.1762
+[INFO] [1744254321.560167778] [head_marker_align_node]: Marker ID 6 detected. Y=-0.0185, Z=1.1764
+[INFO] [1744254321.965892730] [head_marker_align_node]: Marker ID 6 detected. Y=-0.0182, Z=1.1749
+[INFO] [1744254322.056812385] [head_marker_align_node]: Marker ID 6 detected. Y=-0.0182, Z=1.1741
+[INFO] [1744254322.167089263] [head_marker_align_node]: Marker ID 6 detected. Y=-0.0182, Z=1.1747
+[INFO] [1744254322.271631855] [head_marker_align_node]: Marker ID 6 detected. Y=-0.0182, Z=1.1744
+[INFO] [1744254322.381230390] [head_marker_align_node]: Marker ID 6 detected. Y=-0.0183, Z=1.1779
+[INFO] [1744254322.471447812] [head_marker_align_node]: Marker ID 6 detected. Y=-0.0184, Z=1.1776
+[INFO] [1744254322.560855836] [head_marker_align_node]: Marker ID 6 detected. Y=-0.0181, Z=1.1751
+[INFO] [1744254322.633790740] [head_marker_align_node]: Marker ID 6 detected. Y=-0.0183, Z=1.1729
+[INFO] [1744254322.730590384] [head_marker_align_node]: Marker ID 6 detected. Y=-0.0182, Z=1.1716
+[INFO] [1744254322.806749585] [head_marker_align_node]: Marker ID 6 detected. Y=-0.0181, Z=1.1773
+[INFO] [1744254322.893754750] [head_marker_align_node]: Marker ID 6 detected. Y=-0.0183, Z=1.1739
+[INFO] [1744254322.978528577] [head_marker_align_node]: Marker ID 6 detected. Y=-0.0182, Z=1.1722
+[INFO] [1744254323.101554529] [head_marker_align_node]: Marker ID 6 detected. Y=-0.0182, Z=1.1723
+[INFO] [1744254323.204697906] [head_marker_align_node]: Marker ID 6 detected. Y=-0.0182, Z=1.1750
+[INFO] [1744254323.314257770] [head_marker_align_node]: Marker ID 6 detected. Y=-0.0182, Z=1.1737
+[INFO] [1744254323.424058159] [head_marker_align_node]: Marker ID 6 detected. Y=-0.0182, Z=1.1723
+[INFO] [1744254323.566342382] [head_marker_align_node]: Marker ID 6 detected. Y=-0.0183, Z=1.1771
+[INFO] [1744254323.659887078] [head_marker_align_node]: Marker ID 6 detected. Y=-0.0183, Z=1.1758
+[INFO] [1744254323.756534198] [head_marker_align_node]: Marker ID 6 detected. Y=-0.0182, Z=1.1727
+[INFO] [1744254323.864595290] [head_marker_align_node]: Marker ID 6 detected. Y=-0.0182, Z=1.1734
+[INFO] [1744254323.949535178] [head_marker_align_node]: Marker ID 6 detected. Y=-0.0181, Z=1.1746
+[INFO] [1744254324.077472311] [head_marker_align_node]: Marker ID 6 detected. Y=-0.0184, Z=1.1772
+[INFO] [1744254324.196120186] [head_marker_align_node]: Marker ID 6 detected. Y=-0.0184, Z=1.1730
+[INFO] [1744254324.279299735] [head_marker_align_node]: Marker ID 6 detected. Y=-0.0183, Z=1.1743
+[INFO] [1744254324.388474896] [head_marker_align_node]: Marker ID 6 detected. Y=-0.0183, Z=1.1800
+[INFO] [1744254324.491607545] [head_marker_align_node]: Marker ID 6 detected. Y=-0.0182, Z=1.1741
+[INFO] [1744254324.618153036] [head_marker_align_node]: Marker ID 6 detected. Y=-0.0183, Z=1.1772
+[INFO] [1744254324.718540372] [head_marker_align_node]: Marker ID 6 detected. Y=-0.0181, Z=1.1744
+[INFO] [1744254324.805426174] [head_marker_align_node]: Marker ID 6 detected. Y=-0.0182, Z=1.1720
+[INFO] [1744254324.906547282] [head_marker_align_node]: Marker ID 6 detected. Y=-0.0182, Z=1.1750
+[INFO] [1744254325.003772513] [head_marker_align_node]: Marker ID 6 detected. Y=-0.0182, Z=1.1745
+[INFO] [1744254325.091443757] [head_marker_align_node]: Marker ID 6 detected. Y=-0.0182, Z=1.1718
+[INFO] [1744254325.196708329] [head_marker_align_node]: Marker ID 6 detected. Y=-0.0183, Z=1.1771
+[INFO] [1744254325.273890709] [head_marker_align_node]: Marker ID 6 detected. Y=-0.0181, Z=1.1716
+[INFO] [1744254325.371949174] [head_marker_align_node]: Marker ID 6 detected. Y=-0.0185, Z=1.1809
+[INFO] [1744254325.466615906] [head_marker_align_node]: Marker ID 6 detected. Y=-0.0182, Z=1.1750
+[INFO] [1744254325.544587870] [head_marker_align_node]: Marker ID 6 detected. Y=-0.0183, Z=1.1736
+[INFO] [1744254325.638678351] [head_marker_align_node]: Marker ID 6 detected. Y=-0.0182, Z=1.1773
+[INFO] [1744254325.724892994] [head_marker_align_node]: Marker ID 6 detected. Y=-0.0184, Z=1.1764
+[INFO] [1744254325.840390373] [head_marker_align_node]: Marker ID 6 detected. Y=-0.0183, Z=1.1768
+[INFO] [1744254325.923740496] [head_marker_align_node]: Marker ID 6 detected. Y=-0.0182, Z=1.1726
+[INFO] [1744254326.009565181] [head_marker_align_node]: Marker ID 6 detected. Y=-0.0183, Z=1.1752
+[INFO] [1744254326.133644528] [head_marker_align_node]: Marker ID 6 detected. Y=-0.0183, Z=1.1754
+[INFO] [1744254326.221726938] [head_marker_align_node]: Marker ID 6 detected. Y=-0.0184, Z=1.1774
+[INFO] [1744254326.311019746] [head_marker_align_node]: Marker ID 6 detected. Y=-0.0184, Z=1.1766
+[INFO] [1744254326.417778165] [head_marker_align_node]: Marker ID 6 detected. Y=-0.0181, Z=1.1752
+[INFO] [1744254326.495127685] [head_marker_align_node]: Marker ID 6 detected. Y=-0.0183, Z=1.1751
+[INFO] [1744254326.601388104] [head_marker_align_node]: Marker ID 6 detected. Y=-0.0184, Z=1.1785
+[INFO] [1744254326.694682229] [head_marker_align_node]: Marker ID 6 detected. Y=-0.0183, Z=1.1748
+[INFO] [1744254326.792986126] [head_marker_align_node]: Marker ID 6 detected. Y=-0.0183, Z=1.1733
+[INFO] [1744254326.878974101] [head_marker_align_node]: Marker ID 6 detected. Y=-0.0184, Z=1.1747
+[INFO] [1744254326.973044964] [head_marker_align_node]: Marker ID 6 detected. Y=-0.0183, Z=1.1720
+[INFO] [1744254327.059024378] [head_marker_align_node]: Marker ID 6 detected. Y=-0.0182, Z=1.1751
+[INFO] [1744254327.154566424] [head_marker_align_node]: Marker ID 6 detected. Y=-0.0183, Z=1.1753
+[INFO] [1744254327.265453664] [head_marker_align_node]: Marker ID 6 detected. Y=-0.0182, Z=1.1766
+[INFO] [1744254327.340266366] [head_marker_align_node]: Marker ID 6 detected. Y=-0.0184, Z=1.1758
+[INFO] [1744254327.419808766] [head_marker_align_node]: Marker ID 6 detected. Y=-0.0186, Z=1.1758
+[INFO] [1744254327.522199068] [head_marker_align_node]: Marker ID 6 detected. Y=-0.0181, Z=1.1740
+[INFO] [1744254327.607925007] [head_marker_align_node]: Marker ID 6 detected. Y=-0.0183, Z=1.1750
+[INFO] [1744254327.705594664] [head_marker_align_node]: Marker ID 6 detected. Y=-0.0183, Z=1.1733
+[INFO] [1744254327.796194804] [head_marker_align_node]: Marker ID 6 detected. Y=-0.0183, Z=1.1762
+[INFO] [1744254327.874970672] [head_marker_align_node]: Marker ID 6 detected. Y=-0.0183, Z=1.1769
+[INFO] [1744254327.978163877] [head_marker_align_node]: Marker ID 6 detected. Y=-0.0182, Z=1.1772
+[INFO] [1744254328.065898580] [head_marker_align_node]: Marker ID 6 detected. Y=-0.0183, Z=1.1751
+[INFO] [1744254328.171464360] [head_marker_align_node]: Marker ID 6 detected. Y=-0.0184, Z=1.1770
+[INFO] [1744254328.247233502] [head_marker_align_node]: Marker ID 6 detected. Y=-0.0184, Z=1.1763
+[INFO] [1744254328.334710619] [head_marker_align_node]: Marker ID 6 detected. Y=-0.0183, Z=1.1742
+[INFO] [1744254328.439204619] [head_marker_align_node]: Marker ID 6 detected. Y=-0.0185, Z=1.1775
+[INFO] [1744254328.526505882] [head_marker_align_node]: Marker ID 6 detected. Y=-0.0184, Z=1.1799
+[INFO] [1744254328.651261414] [head_marker_align_node]: Marker ID 6 detected. Y=-0.0185, Z=1.1812
+[INFO] [1744254328.736677494] [head_marker_align_node]: Marker ID 6 detected. Y=-0.0184, Z=1.1806
+[INFO] [1744254328.812468304] [head_marker_align_node]: Marker ID 6 detected. Y=-0.0183, Z=1.1749
+[INFO] [1744254328.973626747] [head_marker_align_node]: Marker ID 6 detected. Y=-0.0185, Z=1.1781
+[INFO] [1744254329.046186992] [head_marker_align_node]: Marker ID 6 detected. Y=-0.0185, Z=1.1802
+[INFO] [1744254329.166021595] [head_marker_align_node]: Marker ID 6 detected. Y=-0.0184, Z=1.1827
+[INFO] [1744254329.275054977] [head_marker_align_node]: Marker ID 6 detected. Y=-0.0183, Z=1.1775
+[INFO] [1744254329.630143605] [head_marker_align_node]: Marker ID 6 detected. Y=-0.0184, Z=1.1768
+[INFO] [1744254329.714842232] [head_marker_align_node]: Marker ID 6 detected. Y=-0.0184, Z=1.1790
+[INFO] [1744254329.796395702] [head_marker_align_node]: Marker ID 6 detected. Y=-0.0184, Z=1.1783
+[INFO] [1744254329.889137662] [head_marker_align_node]: Marker ID 6 detected. Y=-0.0184, Z=1.1736
+[INFO] [1744254329.979290645] [head_marker_align_node]: Marker ID 6 detected. Y=-0.0184, Z=1.1767
+[INFO] [1744254330.066770914] [head_marker_align_node]: Marker ID 6 detected. Y=-0.0184, Z=1.1786
+[INFO] [1744254330.144237574] [head_marker_align_node]: Marker ID 6 detected. Y=-0.0183, Z=1.1791
+[INFO] [1744254330.234629072] [head_marker_align_node]: Marker ID 6 detected. Y=-0.0185, Z=1.1793
+[INFO] [1744254330.316559199] [head_marker_align_node]: Marker ID 6 detected. Y=-0.0185, Z=1.1774
+[INFO] [1744254330.406184989] [head_marker_align_node]: Marker ID 6 detected. Y=-0.0184, Z=1.1803
+[INFO] [1744254330.491220671] [head_marker_align_node]: Marker ID 6 detected. Y=-0.0182, Z=1.1793
+[INFO] [1744254330.592287808] [head_marker_align_node]: Marker ID 6 detected. Y=-0.0183, Z=1.1796
+[INFO] [1744254330.658183970] [head_marker_align_node]: Marker ID 6 detected. Y=-0.0183, Z=1.1763
+[INFO] [1744254330.739920306] [head_marker_align_node]: Marker ID 6 detected. Y=-0.0184, Z=1.1777
+[INFO] [1744254330.821773254] [head_marker_align_node]: Marker ID 6 detected. Y=-0.0183, Z=1.1770
+[INFO] [1744254330.913642889] [head_marker_align_node]: Marker ID 6 detected. Y=-0.0183, Z=1.1793
+[INFO] [1744254331.007911687] [head_marker_align_node]: Marker ID 6 detected. Y=-0.0184, Z=1.1785
+[INFO] [1744254331.106889421] [head_marker_align_node]: Marker ID 6 detected. Y=-0.0184, Z=1.1804
+[INFO] [1744254331.192928470] [head_marker_align_node]: Marker ID 6 detected. Y=-0.0183, Z=1.1792
+[INFO] [1744254331.270630636] [head_marker_align_node]: Marker ID 6 detected. Y=-0.0184, Z=1.1769
+[INFO] [1744254331.346852344] [head_marker_align_node]: Marker ID 6 detected. Y=-0.0183, Z=1.1782
+[INFO] [1744254331.440043459] [head_marker_align_node]: Marker ID 6 detected. Y=-0.0184, Z=1.1784
+[INFO] [1744254331.540781957] [head_marker_align_node]: Marker ID 6 detected. Y=-0.0183, Z=1.1770
+[INFO] [1744254331.676806406] [head_marker_align_node]: Marker ID 6 detected. Y=-0.0183, Z=1.1775
+[INFO] [1744254331.782503084] [head_marker_align_node]: Marker ID 6 detected. Y=-0.0184, Z=1.1783
+[INFO] [1744254331.848463566] [head_marker_align_node]: Marker ID 6 detected. Y=-0.0184, Z=1.1794
+[INFO] [1744254331.968224908] [head_marker_align_node]: Marker ID 6 detected. Y=-0.0184, Z=1.1813
+[INFO] [1744254332.072156104] [head_marker_align_node]: Marker ID 6 detected. Y=-0.0181, Z=1.1759
+[INFO] [1744254332.217766818] [head_marker_align_node]: Marker ID 6 detected. Y=-0.0185, Z=1.1816
+[INFO] [1744254332.369512285] [head_marker_align_node]: Marker ID 6 detected. Y=-0.0184, Z=1.1781
+[INFO] [1744254332.482899765] [head_marker_align_node]: Marker ID 6 detected. Y=-0.0185, Z=1.1805
+[INFO] [1744254332.594611148] [head_marker_align_node]: Marker ID 6 detected. Y=-0.0184, Z=1.1761
+[INFO] [1744254333.117111644] [head_marker_align_node]: Marker ID 6 detected. Y=-0.0183, Z=1.1744
+[INFO] [1744254333.233592451] [head_marker_align_node]: Marker ID 6 detected. Y=-0.0184, Z=1.1772
+[INFO] [1744254333.335207327] [head_marker_align_node]: Marker ID 6 detected. Y=-0.0183, Z=1.1766
+[INFO] [1744254333.410841109] [head_marker_align_node]: Marker ID 6 detected. Y=-0.0184, Z=1.1784
+[INFO] [1744254333.512803661] [head_marker_align_node]: Marker ID 6 detected. Y=-0.0183, Z=1.1800
+[INFO] [1744254333.591171753] [head_marker_align_node]: Marker ID 6 detected. Y=-0.0186, Z=1.1757
+[INFO] [1744254333.689972495] [head_marker_align_node]: Marker ID 6 detected. Y=-0.0185, Z=1.1811
+[INFO] [1744254333.745953736] [head_marker_align_node]: Marker ID 6 detected. Y=-0.0184, Z=1.1765
+[INFO] [1744254333.832640454] [head_marker_align_node]: Marker ID 6 detected. Y=-0.0186, Z=1.1791
+[INFO] [1744254333.925824641] [head_marker_align_node]: Marker ID 6 detected. Y=-0.0184, Z=1.1760
+[INFO] [1744254334.019018382] [head_marker_align_node]: Marker ID 6 detected. Y=-0.0184, Z=1.1774
+[INFO] [1744254334.119222853] [head_marker_align_node]: Marker ID 6 detected. Y=-0.0185, Z=1.1782
+[INFO] [1744254334.202127856] [head_marker_align_node]: Marker ID 6 detected. Y=-0.0185, Z=1.1804
+[INFO] [1744254334.572185285] [head_marker_align_node]: Marker ID 6 detected. Y=-0.0186, Z=1.1801
+[INFO] [1744254334.664370768] [head_marker_align_node]: Marker ID 6 detected. Y=-0.0183, Z=1.1789
+[INFO] [1744254334.747116222] [head_marker_align_node]: Marker ID 6 detected. Y=-0.0184, Z=1.1773
+[INFO] [1744254334.822495920] [head_marker_align_node]: Marker ID 6 detected. Y=-0.0185, Z=1.1775
+[INFO] [1744254334.905913431] [head_marker_align_node]: Marker ID 6 detected. Y=-0.0184, Z=1.1780
+[INFO] [1744254334.988431650] [head_marker_align_node]: Marker ID 6 detected. Y=-0.0184, Z=1.1744
+[INFO] [1744254335.064870687] [head_marker_align_node]: Marker ID 6 detected. Y=-0.0184, Z=1.1783
+[INFO] [1744254335.155026239] [head_marker_align_node]: Marker ID 6 detected. Y=-0.0184, Z=1.1756
+[INFO] [1744254335.241355978] [head_marker_align_node]: Marker ID 6 detected. Y=-0.0187, Z=1.1752
+[INFO] [1744254335.349195277] [head_marker_align_node]: Marker ID 6 detected. Y=-0.0184, Z=1.1809
+[INFO] [1744254335.435457712] [head_marker_align_node]: Marker ID 6 detected. Y=-0.0184, Z=1.1775
+[INFO] [1744254335.524076743] [head_marker_align_node]: Marker ID 6 detected. Y=-0.0184, Z=1.1751
